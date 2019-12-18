@@ -1,0 +1,433 @@
+
+<!DOCTYPE HTML>
+<html lang="ru" prefix="og: http://ogp.me/ns#">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{keyword}</title>
+    <link rel="alternate" type="application/rss+xml" title="Daily Digital Digest" href="https://3dnews.ru/news/rss/"/>
+    <link href="https://plus.google.com/106437263532799413637" rel="publisher"/>
+    <meta name="Keywords" content="что такое midi?"/>
+    <meta name="Copyright" content="(C) 1997-2019, 3DNews"/>
+    <meta name="referrer" content="origin"/>
+    <meta name="Description" content="{keyword}"/>
+    <meta name="Classification"
+          content="Компьютеры, Hardware, Software, Игры, IT, Программы, ATI, AMD, Intel, Nvidia, видеокарты, материнские платы, цифровые технологии"/>
+    <meta property="fb:app_id" content="133551106681042"/>
+    <meta property="fb:admins"
+          content="100001684312586,100000239830797,663927325,100000448764645,1243155580,100000810638784"/>
+    <meta property="og:url" content="https://3dnews.ru/170027"/>
+    <meta property="og:site_name" content="3DNews - Daily Digital Digest"/>
+    <meta property="og:title" content="Что такое MIDI?"/>
+    <meta property="og:description" content="В этом материале мы рассмотрим &quot;сущность&quot; MIDI, а также историю и возможности синхронизации - вопросы, безусловно, интересные для всех, кто работает со звуком.    Intro…    MIDI (Musical Instrument Digital Interface) - это протокол, содержащий набор стандартных команд для взаимодействия между звуковыми устройствами. В конце 70-х годов индустрия уже имела в арсенале множество инструментов и устройств обработки, но они никак не были связаны между собой. Со стороны производителей было предложено несколько вариантов взаимодействий, но общей стандартизации не было.     Толку от того, что вы можете подключить две или три модели - этого мало. Причем такие варианты коммутаций обычно делались на заказ. На выставке NAMM 1981 года между Икутаро Какехаши  (Roland), Томом Оберхеймом (Oberheim) и Дэйвом Смитом (президент Sequential Circuits) состоялся первый разговор на эту тему. В результате, общ�"/>
+    <meta property="og:type" content="article"/>
+    <meta property="og:image" content="https://3dnews.ru/documents/6627/midi01.gif"/>
+    <meta property="og:image:secure_url" content="https://3dnews.ru/documents/6627/midi01.gif"/>
+    <meta itemprop="name" content="Что такое MIDI?"/>
+    <meta itemprop="description" content="В этом материале мы рассмотрим &quot;сущность&quot; MIDI, а также историю и возможности синхронизации - вопросы, безусловно, интересные для всех, кто работает со звуком.    Intro…    MIDI (Musical Instrument Digital Interface) - это протокол, содержащий набор стандартных команд для взаимодействия между звуковыми устройствами. В конце 70-х годов индустрия уже имела в арсенале множество инструментов и устройств обработки, но они никак не были связаны между собой. Со стороны производителей было предложено несколько вариантов взаимодействий, но общей стандартизации не было.     Толку от того, что вы можете подключить две или три модели - этого мало. Причем такие варианты коммутаций обычно делались на заказ. На выставке NAMM 1981 года между Икутаро Какехаши  (Roland), Томом Оберхеймом (Oberheim) и Дэйвом Смитом (президент Sequential Circuits) состоялся первый разговор на эту тему. В результате, общ�"/>
+    <meta itemprop="image" content="https://3dnews.ru/documents/6627/midi01.gif"/>
+    <meta name="theme-color" content="#36a"/>
+ 
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@3D_News">
+	<meta name="twitter:creator" content="@3D_News">
+	<meta name="twitter:title" content="Что такое MIDI?">
+	<meta name="twitter:description" content="В этом материале мы рассмотрим &quot;сущность&quot; MIDI, а также историю и возможности синхронизации - вопросы, безусловно, интересные для всех, кто работает со звуком.    Intro…    MIDI (Musical Instrument Digital Interface) - это протокол, содержащий набор стандартных команд для взаимодействия между звуковыми устройствами. В конце 70-х годов индустрия уже имела в арсенале множество инструментов и устройств обработки, но они никак не были связаны между собой. Со стороны производителей было предложено несколько вариантов взаимодействий, но общей стандартизации не было.     Толку от того, что вы можете подключить две или три модели - этого мало. Причем такие варианты коммутаций обычно делались на заказ. На выставке NAMM 1981 года между Икутаро Какехаши  (Roland), Томом Оберхеймом (Oberheim) и Дэйвом Смитом (президент Sequential Circuits) состоялся первый разговор на эту тему. В результате, общ�">
+	<meta name="twitter:image" content="https://3dnews.ru/documents/6627/midi01.gif">
+   
+	<meta property="aio_appid" content="AIO_57640397CE6D4">
+   
+   	<meta name="mediator_author" content="Кристофер"/>
+	 
+    <link rel="canonical" href="https://3dnews.ru/170027" />
+    	<link rel="shortcut icon" href="/assets/3dnews_logo_color.png">
+	<link rel="apple-touch-icon" href="/assets/3dnews_logo_color.png">
+    <link rel="search" type="application/opensearchdescription+xml" title="3DNews" href="/opensearch.xml"/>
+    		<meta property="article:section" content="">    <!--[if gte IE 9]>
+    <style type="text/css"> .gradient {
+        filter: none;
+    } </style>
+    <![endif]-->
+
+	<link type="text/css" rel="stylesheet" href="/static.style.css?1567324419"/>
+		<link id="mobilecss" rel="stylesheet" type="text/css" href="/mobile.version.min.css?t1567324419" media="all">
+	    
+</head>
+<body id="body">
+
+ 
+<div id="vk_api_transport"></div>
+<div id="fb-root"></div>
+
+<div id="AIONative" class="aio_banner" data-aio-ctype="1" style="width: 100%; margin: 0 auto;"></div>
+<div id="aio-1000013"></div>
+
+<div class="mobile-header-fix" style="display:none" ><div class="mlogo"><img src="/assets/images/3dnews_logo_bw_hr.png" style="height: 30px;width: auto !important;"></div></div>
+
+<div id="global-wrapper">
+    <div id="wrapper">
+	    <div class="nomargins ad _revsingle"><div data-placement="single" data-path="/multimedia" class="ad-zone czone_1821" data-zone-id="1821" id="zone-1821" data-subcat="coders" data-cat="" data-section="publication" data-catinpub="109_238_"></div></div>        <!--div id="heading">
+	        <div id="earAds" class="right">
+                		        <span style="display: inline-block;margin-right: -15px;margin-top:  -8px;margin-bottom:  -10px; float: right; clear: none; width: 90px; height: 90px; background: url(/assets/images/18plus.png) center center no-repeat;" title="Сайт предназначен для аудитории 18+"></span>
+	        </div>
+        </div-->
+		    		<div id="aio_topline"></div>
+        <div id="stripe">
+	       
+			
+			<!--a class="MWCbutton" href="/subjects/ces2019" style="background: #fff;color: #000 !important;text-shadow: none !important;text-align: right;width: 135px;padding-right: 8px;overflow: hidden;"><img src="/assets/images/CESCLOGO.jpg" style="position: absolute; left: 0px; top: 0px; height: 100%;">CES 2019</a-->
+			
+			<!--a class="huawei_special_link" href="/huawei/?utm_source=3DNews&utm_medium=static&utm_term=&utm_content=logo_main&utm_campaign=2018Q3_Huawei_SP_3Dnews" target="_blank" ><img src="/huawei/images/logo_huawei.svg"></a-->
+			
+            <div id="info-links" class="right">
+        </div>
+        </div>
+
+<style>
+	.huawei-menu {
+		display: flex;
+		flex-direction: row;
+		flex-wrap: nowrap;
+		justify-content: space-between;
+		align-items: center;
+		width: 100%;
+		max-width: 1245px;
+		min-height: 26px;
+		margin: 3px auto 0 auto;
+		background-color: #c7000b;
+		}
+
+		.huawei-menu > .logo-ft { min-width: 169px; }
+		.huawei-menu > .logo-rt { min-width: 248px; }
+
+			.huawei-logo {
+				width: 78px;
+				margin: 0 auto;
+				padding-top: 4px;
+				}
+
+		.huawei-menu > .news-box {
+			width: 100%;
+			padding: 4px 0;
+			font-family: Tahoma, Arial, Helvetica, sans-serif;
+			font-size: 12px;
+			font-weight: bold;
+			letter-spacing: 0.035em;
+			text-align: center;
+			color: #FFF;
+			transition: all ease-in-out .05s;
+			}
+
+			.huawei-menu > .news-box a       { text-decoration: none; color: #FFF; }
+			.huawei-menu > .news-box a:hover { text-decoration: none; border-bottom: 0.05em solid #FFF; color: #FFF; }
+	
+@media only screen and (max-width: 799px) {
+
+	.huawei-menu {
+		max-width: 100%;
+		justify-content: flex-start;
+		margin-bottom: 7px;
+		height: auto;
+		}
+
+		.huawei-menu > .logo-ft { min-width: auto; }
+		.huawei-menu > .logo-rt { display: none; }
+	
+			.huawei-logo {
+				width: 120px;
+				padding: 10px 0 8px 11px;
+				}
+
+		.huawei-menu > .news-box {
+			padding: 7px 10px;
+			font-size: 15px;
+			line-height: 1.25em;
+			text-align: left;
+			}
+
+	}
+</style>
+
+    
+<div class="huawei-menu">
+	<div class="logo-ft">
+		<div class="huawei-logo">
+			 
+		</div>
+	</div>
+	<div class="news-box">
+ 
+	</div><div class="logo-rt"></div>
+</div>
+
+        <!-- 
+	                -->
+        <input name="query-input" value="" type="text" id="search-text" autocomplete="off" >
+        <table id="full-view" height="100%" border="0">
+
+	<tr>
+	 <h1> {keyword} </h1>
+	
+
+		<td id="left-sidebar" width="171">
+			<div class="logowrapper">
+            	        <!--a class="left logoc" href="/" alt="Возврат на титул 3DNews" class="nospace"><img src="/assets/images/logos/logo_3dn20.png" alt="логотип 3DNews" /></a-->
+	        n<img src="/assets/images/logo.png" alt="логотип 3DNews" /></a>
+	        </div>
+<div class="sidebar-chunk" id="search-form">
+	Поиск по сайту:
+	<form action="javascript:void(0);" method="get" onsubmit="actionSearch();">
+	  <input value="" name="search" type="submit" id="search-button">
+	</form>
+</div>
+<div class="sidebar-chunk menu-item dark current">
+	<span class="left"></span></div><div class="content-block margin-top" id="voteBox">
+	<div id="voteContainer"></div>
+</div>
+<div class="ad margin-top">
+	<div class="nomargins ad _revsingle"><div data-placement="single" data-path="/multimedia" class="ad-zone czone_23" data-zone-id="23" id="zone-23" data-subcat="coders" data-cat="" data-section="publication" data-catinpub="109_238_"></div></div></div>
+
+<!--div class="ad margin-top centered">
+	</div-->
+
+<div style="min-height: 600px; font-size: 0; position: sticky; top: 10px;" >
+    <!--AdFox START-->
+    <!--MarTi-->
+    <!--Площадка: 3dnews / * / *-->
+    <!--Тип баннера: Side-->
+    <!--Расположение: 160х600-->
+    <div id="adfox_side3"></div>
+  
+</div>
+
+<!--div class="ad margin-top centered">
+	<script src='//mediametrics.ru/partner/inject/inject.js' type='text/javascript' id='MediaMetricsInject' data-width='160' data-height='400' data-img='false' data-type='std' data-bgcolor='FFFFFF' data-bordercolor='000000' data-linkscolor='232323' data-transparent='' data-rows='5' data-inline='' data-font='small' data-fontfamily='roboto' data-border='' data-borderwidth='0' data-alignment='vertical' data-country='hitech/ru' data-site='mmet/3dnews_ru' async> </script>
+</div-->
+
+		</td>
+		<td itemscope itemtype="http://schema.org/Article" id="content-column">
+			<div class="content-block breadcrumbs">
+	<div class="content-block-header">
+		<span class="left nowrap">
+		  </span><span class="left"></span>
+	</div></div><div class="content-block" id="news-top">
+	<div class="content-block-data">
+		<ul>
+			<li class="header"> 
+			<h3>&nbsp; </h3> </li></ul></div>
+</div>
+
+	<div class="content-ads margin-top margin-bottom">
+	<div class="nomargins ad _revtop-2"><div data-placement="top-2" data-path="/multimedia" class="ad-zone czone_199" data-zone-id="199" id="zone-199" data-subcat="coders" data-cat="" data-section="publication" data-catinpub="109_238_"></div></div></div>
+
+<center>
+<div id='crt-1291719' style="margin-top:5px;">
+   
+</div>
+</center>
+
+ 
+<div id="section-content" class="publication">
+<div class="article-entry article-full-item" id="170027" data-prod="">
+<div id="floating-share-box-170027" class="floating-share-box" style="display: none;">
+	<div class="share-item">
+		<div id="vk-like-170027"></div>
+		 
+	</div>
+	<div class="share-item"><div class="fb-like" data-href="http://www.3dnews.ru/170027/" data-send="false" data-layout="box_count" data-width="97" data-show-faces="true" data-font="segoe ui"></div></div>
+	<div class="share-item"><div class="g-plusone" data-size="tall" data-href="http://www.3dnews.ru/170027/"></div></div>
+	<div class="share-item"> </div>
+</div>
+<span class="share button right lite" data-tooltip="Поделиться статьей"><i class="icon-retweet"></i></span>
+ 
+
+<h1 itemprop="headline">{keyword}</h1>
+
+<div class="entry-info content-block-data white nomargins">
+		<div class="header">
+		<table class="nomargins">
+			<tbody>
+			<tr>
+				<td valign="middle">
+					<span class="date" itemprop="datePublished" content="2004-01-14T12:00:00+03:00">14&nbsp;января&nbsp;2004</span>
+				</td>
+				<td>
+					<i class="icon-group"></i>&nbsp; </td>
+			</tr>
+			</tbody>
+		</table>
+
+	</div>
+	<div class="teaser margin-bottom _ga1_on_">
+				<span itemprop="description"></span>
+	</div>
+	<div class="clear"></div>
+</div>
+<div class="clear"></div>
+
+<div class="entry-body article _ga1_on_ 08ff15746" itemprop="articleBody">
+	<!-- 1 -->
+
+	<div id="fullpub"></div>
+			
+		
+	<div class="js-mediator-article">
+	<p>{manytext_bing}<br>
+    <div style="margin-top: 15px !important;"><div class="nomargins ad _revhb-top-1"><div data-placement="default" data-path="/multimedia" class="resp-ad-zone czone_1883" data-zone-id="1883" id="zone-1883"></div></div></div>	</div>
+	
+	 		<div class="pgnavemptyNext">&nbsp;</div>
+		
+	 		<div class="pgnavemptyPrev">&nbsp;</div>
+		
+	<div class="rate-box-in-page"> 
+<center>
+	<div class="addthis_sharing_toolbox"
+	     addthis:url="https://3dnews.ru/170027"
+	     addthis:title="Что такое MIDI? / Звук и акустика"
+	     addthis:description="Что такое MIDI?"></div>
+	 
+</center>
+
+	
+
+</div>
+	
+	<div style="clear: both;"></div>
+
+				
+	<!---price-widget--->
+	
+	<center>
+ 
+<div class="ymarket-affiliate-widget" id="yandex-widget-offers" style="margin-top: 15px;"></div>
+	</center>
+</div>
+</div>
+</div></td>
+		<td id="right-sidebar" width="240">
+			<center>
+ <img src="https://ad.3dnews.ru/www/images/34fcb51e0056a8e3bc66024a957d115a.jpg" width="240" height="90" alt="" title="" border="0"> 
+</center>
+<img src="https://ad.3dnews.ru/www/delivery/lg.php?bannerid=8103&campaignid=4589&zoneid=0&loc=https%3A%2F%2F3dnews.ru&referer=&cb=" border=0 style="position: absolute;">
+
+<div class="sidebar-chunk margin-bottom">
+	<div class="content-block" id="currencyTicker">
+		<div class="content-block-data white" style="min-height: auto">
+			<div id="currencyTickerBody" style="display: none !important">
+				 
+			<!--span style="border-right: 1px solid #bdd7eb;background: #e0f0fd;border-left: 1px solid #bdd7eb;border-bottom: 0px;text-align: center;">Самые важные новости мира криптовалют <a href="https://t.me/joinchat/AAAAAEGP6JKOxKwoVJ0fqw" target="_blank" rel="nofollow" style="text-decoration: none !important;">@cryptonewzzz</a></span-->
+			<span style="border-right: 1px solid #aeaeae;background: #ececec;border-left: 1px solid #aeaeae;border-bottom: 0px;text-align: center;cursor: pointer;" id="toggle_currencyTicker">Показать курсы криптовалют</span>
+			<div style="clear: both;"></div>
+		</div>
+	</div>
+</div>
+		<div class="sidebar-chunk margin-bottom">
+			<div class="content-block authbox" id="top-articles"  style='display: none;'>
+				<div class="content-block-header">
+					<span class="left strong">Авторизация</span>
+				</div>
+				<div class="content-block-data white" id="userBox">
+												<!--p>Вы можете авторизоваться на сайте используя социальные сети:</p>
+						<p class="text-center"><img id="vk-auth-reg" class="socialauth" src="/fresh/images/vklogo.gif" width="16" height="16" alt="Войти через сеть ВКонтакте" border="0" />&nbsp;<img class="socialauth" id="fb-auth-reg" src="/fresh/images/fblogo.png" width="16" height="16" alt="Войти через сеть Facebook" border="0" /><br /></p-->
+						<p>Укажите имя пользователя:</p>
+						<p><input type="text" class="inputText" name="username"></p>
+						<p>и пароль:</p>
+						<p><input type="password" class="inputText" name="password"></p>
+						<p> 
+					
+<div class="sidebar-chunk margin-bottom" id="adslot_240x400_single_etc">
+	<div class="nomargins ad _revsingle"><div data-placement="single" data-path="/multimedia" class="ad-zone czone_183" data-zone-id="183" id="zone-183" data-subcat="coders" data-cat="" data-section="publication" data-catinpub="109_238_"></div></div></div>
+			<div class="content-block-header">
+				<span class="left strong">Самое интересное - обзоры</span>
+			</div>
+			<!-- top-articles _ nol -->
+
+			<!--div class="smart-things-right-block" data-time="1565816458">
+				<div class="smart-fake-background-color"></div>
+				<div class="smart-things-body">
+					<p>
+						<span class="smart-things-block-header">
+							<a href="/smart-things/992092/?from=smt-block">
+								Обзор дрона AirSelfie 2: селфи-бомбардировщик
+							</a>
+						</span>
+						<span class="smart-things-block-text">
+							<img src="/assets/external/icons/2019/08/08/992092.jpg" border="0">
+							Самый главный сюжет для съемки – не пейзаж, макро или животные, а непосредственно мы сами. Селфи – доминирующее искусство нашего времени, и для более интересной и качественной съемки самих себя все средства хороши. Даже летающие – такие как дрон AirSelfie 2
+						</span>
+					</p>
+				</div><a href="/smart-things/?from=smt-block" title="Перейти в раздел Умные Вещи"><img style="float:left;margin-left:-2px;" src="/assets/images/smart-2.png" border="0" /></a>
+				<div style="clear: both;"></div>
+			</div-->
+				
+<div id="hitlineadx"></div>
+
+<div class="sidebar-chunk margin-bottom adfox_slide2_sticky" style="position: sticky; top: 10px;">
+	<div style="min-height: 400px; font-size: 0;" id="wrapper_adfox_slide2">
+	    <!--AdFox START-->
+	    <!--MarTi-->
+	    <!--Площадка: 3dnews / * / *-->
+	    <!--Тип баннера: Side-->
+	    <!--Расположение: 2-->
+	    <div id="adfox_side2"></div>
+	    
+	    
+		<div id='crt-1290333'>
+	  </div>
+	    
+	</div>
+</div>
+
+	</tr>
+
+</table>
+<div id="feed-to-top" style="display: none;">
+	<i class="icon-arrow-up"></i>
+</div>
+
+<!--
+-->
+
+<div class="nomargins ad _revsingle"><div data-placement="single" data-path="/multimedia" class="resp-ad-zone ad-zone czone_1796" data-zone-id="1796" id="zone-1796" data-subcat="coders" data-cat="" data-section="publication" data-catinpub="109_238_"></div></div>
+ 
+
+
+<div id="conditions-for-processing" style="display: none;"></div>
+
+<div id="footer">
+	<div class="left first">&nbsp;</div>
+	<div id="footer-menu" class="left">
+	 
+	</div>
+	<div style="background: #6292c6;float: right;height: 100%;padding-right: 5px;line-height: 25px;">{manytext_bing}<br>
+	</div>
+</div>
+<div class="footer-sub">
+	
+	<p>&copy; 1997-2019 3DNews - Daily Digital Digest | Лицензия Минпечати Эл ФС 77-22224</p>
+
+	<p>При цитировании документа ссылка на сайт с указанием автора обязательна. Полное заимствование документа является
+		нарушением<br />российского и международного законодательства и возможно только с согласия редакции 3DNews.</p>
+
+	<p>
+
+		 
+<symbol id="icon-window-new" viewBox="0 0 20 20">
+  <title> </title></symbol><div class="mobileMenuContent"><div class="mmc_wrapper"><div class="mmc_row mmcr_sw"><div class="mmc_row_list_wrapper"><div class="slider-inmenu-sw __list_content _list_hardware "> <div class="mmc_row_item_title"><i class="pub_time_ago"></i>
+						</div>
+				        <div class="mmc_row_item_cover" style="background: url('https://3dnews.ru/z/ac:if/w:r/2019/08/30/993282/spit1.jpg/400')"></div>
+				        <div class="buttom_black_bg"></div>
+			</a></div>		    </div>
+		</div>
+
+
+	
+	</div>
+
+	</div>
+</div>
+<!--/noindex-->
+
+</body>
+			</html>

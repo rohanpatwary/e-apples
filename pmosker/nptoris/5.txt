@@ -1,0 +1,439 @@
+
+<!DOCTYPE html>
+ 
+<link rel='stylesheet' type="text/css" href="https://rmmedia.ru/zoomsounds/audioplayer/audioplayer.css"/>
+ 
+<html id="XF" lang="ru-RU" dir="LTR"
+	  style="font-size: 62.5%;"
+	  data-app="public"
+	  data-template="thread_view"
+	  data-container-key="node-16"
+	  data-content-key="thread-39144"
+	  data-logged-in="false"
+	  data-cookie-prefix="xf_"
+	  data-csrf="1567322811,4a80b4468a9dc6f6c9a467e5c1aa37c4"
+	  class="has-no-js template-thread_view  uix_page--fixed  uix_hasCrumbs uix_hasPageAction"
+	  >
+	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+
+		
+
+		<title>{keyword}</title>
+
+		
+			
+		<meta name="description" content="{keyword}" />
+		<meta property="og:description" content="Дядьки у кого есть доступ на скачивание на midi.ru  / а то у меня акаунт есть а там только 3 мидишки загружено а срочно надо скачать от тудоф два файла.
+Если у кого-то есть пожалуста стукните в аську или в личку или может если получится скаиньте в атач вот эти два мидишки 
+вот на этой странице..." />
+		<meta property="twitter:description" content="Дядьки у кого есть доступ на скачивание на midi.ru  / а то у меня акаунт есть а там только 3 мидишки загружено а срочно надо скачать от тудоф два файла.
+Если у кого-то есть пожалуста стукните в..." />
+	
+		
+			<meta property="og:url" content="http://rmmedia.ru/threads/39144/" />
+		
+			<link rel="canonical" href="http://rmmedia.ru/threads/39144/" />
+		
+			<link rel="next" href="/threads/39144/page-2" />
+		
+
+		
+			
+	
+	
+	<meta property="og:site_name" content="Rmmedia.ru" />
+
+
+		
+		
+			
+	
+	
+	<meta property="og:type" content="website" />
+
+
+		
+		
+			
+	
+	
+	
+		<meta property="og:title" content="Инвайт  Приглашение на midi.ru миди.ру" />
+		<meta property="twitter:title" content="Инвайт  Приглашение на midi.ru миди.ру" />
+	
+
+
+		
+		
+		
+		
+
+		
+			<meta name="theme-color" content="#7d9ee0" />
+			<meta name="msapplication-TileColor" content="rgb(125, 158, 224)">
+		
+
+		
+	
+
+	
+	<link rel="preload" href="/styles/fonts/fa/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin="anonymous" />
+
+
+	<link rel="preload" href="/styles/fonts/fa/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin="anonymous" />
+
+
+<link rel="preload" href="/styles/fonts/fa/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin="anonymous" />
+
+	
+		
+	
+
+	<link rel="stylesheet" href="/css.php?css=public%3Anormalize.css%2Cpublic%3Acore.less%2Cpublic%3Aapp.less%2Cpublic%3Aio.less%2Cpublic%3Aiodark.less&amp;s=10&amp;l=2&amp;d=1565608486&amp;k=024bc0641d6c11d1cea875588fb587e9e2c19646" />
+
+	
+		
+			<link rel="stylesheet" href="/styles/io_dark/fonts/icons/material-icons/css/materialdesignicons.min.css" />	
+		
+	
+	
+	<link rel="stylesheet" href="/css.php?css=public%3AUserActivity.less%2Cpublic%3Abb_code.less%2Cpublic%3Acopycode.less%2Cpublic%3Alightbox.less%2Cpublic%3Amessage.less%2Cpublic%3Amr_topic_starter.less%2Cpublic%3Ashare_controls.less%2Cpublic%3Ath_uix_staffPost.less%2Cpublic%3Ath_uix_threadStarterPost.less%2Cpublic%3Auix_extendedFooter.less%2Cpublic%3Auix_socialMedia.less%2Cpublic%3Aextra.less&amp;s=10&amp;l=2&amp;d=1565608486&amp;k=e20c8fdff9378355b8d60d99615fd9139fd594e1" />
+
+	
+	
+ 
+	
+	
+	<meta name="apple-mobile-web-app-capable" content="yes">
+
+
+		
+			<link rel="icon" type="image/png" href="https://rmmedia.ru/styles/io_dark/images/favicon-0.png" sizes="32x32" />
+		
+		
+		
+
+		
+
+		
+
+
+	</head>
+
+	<body data-template="thread_view">
+		<div class="uix_pageWrapper--fixed"><div class="p-pageWrapper" id="top"><div class="uix_headerContainer"><header class="p-header" id="header"><div class="p-header-inner"><div class="p-header-content"><div class="p-nav-opposite"><div class="p-navgroup p-discovery"><div class="uix_searchBar"><div class="uix_searchBarInner">
+				</div>
+
+				
+					 
+
+				<div class="menu menu--structural menu--wide" data-menu="menu" aria-hidden="true">
+					<form action="/search/search" method="post"
+						  class="menu-content"
+						  data-xf-init="quick-search">
+						<h3 class="menu-header">Поиск</h3>
+						
+						<div class="menu-row">
+							
+								<div class="inputGroup inputGroup--joined">
+									<input type="text" class="input js-uix_syncValue" name="keywords" data-uixsync="search" placeholder="Поиск…" aria-label="Поиск" data-menu-autofocus="true" />
+									
+			<select name="constraints" class="js-quickSearch-constraint input" aria-label="Search within">
+				<option value="">Везде</option>
+<option value="{&quot;search_type&quot;:&quot;post&quot;}">Темы</option>
+<option value="{&quot;search_type&quot;:&quot;post&quot;,&quot;c&quot;:{&quot;nodes&quot;:[16],&quot;child_nodes&quot;:1}}">Этот форум</option>
+<option value="{&quot;search_type&quot;:&quot;post&quot;,&quot;c&quot;:{&quot;thread&quot;:39144}}">Эта тема</option>
+
+			</select>
+		
+								</div>
+								
+						</div>
+
+						
+						<div class="menu-row">
+							<label class="iconic"><input type="checkbox"  name="c[title_only]" value="1" /><i aria-hidden="true"></i><span class="iconic-label">Искать только в заголовках</span></label>
+
+						</div>
+						
+						<div class="menu-row">
+							<div class="inputGroup">
+								<span class="inputGroup-text" id="ctrl_search_menu_by_member">От:</span>
+								<input type="text" class="input" name="c[users]" data-xf-init="auto-complete" placeholder="Пользователь" aria-labelledby="ctrl_search_menu_by_member" />
+							</div>
+						</div>
+						<div class="menu-footer">
+							<span class="menu-footer-controls">
+								<button type="submit" class="button--primary button button--icon button--icon--search"><span class="button-text">Поиск</span></button>
+								 </span></div></form></div></div></div></div></div></div></header><div class="p-navSticky p-navSticky--primary uix_stickyBar" data-top-offset-breakpoints="
+						[
+							{
+								&quot;breakpoint&quot;: &quot;0&quot;,
+								&quot;offset&quot;: &quot;0&quot;
+							}
+							
+							
+						]
+					"><nav class="p-nav"><div class="p-nav-inner"><div class="p-nav-opposite">
+				
+				
+					<div class="p-navgroup p-discovery">
+						
+							
+	
+		
+	
+
+							
+	
+		
+		
+			<div class="uix_searchBar">
+				<div class="uix_searchBarInner">
+					<form action="/search/search" method="post" class="uix_searchForm" data-xf-init="quick-search">
+						 
+				
+
+				<div class="menu menu--structural menu--wide" data-menu="menu" aria-hidden="true">
+					<form action="/search/search" method="post"
+						  class="menu-content"
+						  data-xf-init="quick-search">
+						<h3 class="menu-header">Поиск</h3>
+						
+						<div class="menu-row">
+							
+								<div class="inputGroup inputGroup--joined">
+									<input type="text" class="input js-uix_syncValue" name="keywords" data-uixsync="search" placeholder="Поиск…" aria-label="Поиск" data-menu-autofocus="true" />
+									
+			<select name="constraints" class="js-quickSearch-constraint input" aria-label="Search within">
+				<option value="">Везде</option>
+<option value="{&quot;search_type&quot;:&quot;post&quot;}">Темы</option>
+<option value="{&quot;search_type&quot;:&quot;post&quot;,&quot;c&quot;:{&quot;nodes&quot;:[16],&quot;child_nodes&quot;:1}}">Этот форум</option>
+<option value="{&quot;search_type&quot;:&quot;post&quot;,&quot;c&quot;:{&quot;thread&quot;:39144}}">Эта тема</option>
+
+			</select>
+		
+								</div>
+								
+						</div>
+
+						
+						<div class="menu-row">
+							<label class="iconic"><input type="checkbox"  name="c[title_only]" value="1" /><i aria-hidden="true"></i><span class="iconic-label">Искать только в заголовках</span></label>
+
+						</div>
+						
+						<div class="menu-row">
+							<div class="inputGroup">
+								<span class="inputGroup-text" id="ctrl_search_menu_by_member">От:</span>
+								<input type="text" class="input" name="c[users]" data-xf-init="auto-complete" placeholder="Пользователь" aria-labelledby="ctrl_search_menu_by_member" />
+							</div>
+						</div>
+						<div class="menu-footer">
+							<span class="menu-footer-controls">
+								<button type="submit" class="button--primary button button--icon button--icon--search"><span class="button-text">Поиск</span></button>
+								 
+							</span>
+						</div>
+
+						<input type="hidden" name="_xfToken" value="1567322811,4a80b4468a9dc6f6c9a467e5c1aa37c4" />
+					</form>
+				</div>
+
+
+				<div class="menu menu--structural menu--wide uix_searchDropdown__menu" aria-hidden="true">
+					<form action="/search/search" method="post"
+						  class="menu-content"
+						  data-xf-init="quick-search">
+						
+						
+							<div class="menu-row">
+
+								<div class="inputGroup">
+									<input name="keywords"
+										   class="js-uix_syncValue"
+										   data-uixsync="search"
+										   placeholder="Поиск…"
+										   aria-label="Поиск"
+										   type="hidden" />
+									
+			<select name="constraints" class="js-quickSearch-constraint input" aria-label="Search within">
+				<option value="">Везде</option>
+<option value="{&quot;search_type&quot;:&quot;post&quot;}">Темы</option>
+<option value="{&quot;search_type&quot;:&quot;post&quot;,&quot;c&quot;:{&quot;nodes&quot;:[16],&quot;child_nodes&quot;:1}}">Этот форум</option>
+<option value="{&quot;search_type&quot;:&quot;post&quot;,&quot;c&quot;:{&quot;thread&quot;:39144}}">Эта тема</option>
+
+			</select>
+		
+								</div>
+							</div>
+							
+
+						
+						<div class="menu-row">
+							<label class="iconic"> </label></div></form></div></div></div></div></div></nav></div></div><div class="offCanvasMenu offCanvasMenu--nav js-headerOffCanvasMenu" data-menu="menu" aria-hidden="true" data-ocm-builder="navigation"><div class="offCanvasMenu-content"><div class="sidePanel sidePanel--nav sidePanel--visitor"><div class="sidePanel__tabPanels"><div data-content="navigation" class="is-active sidePanel__tabPanel js-navigationTabPanel">
+							
+							<div class="js-offCanvasNavTarget"></div>
+							
+							
+						
+		</div>
+		
+		
+		
+	</div>
+</div>
+
+						
+					</div>
+				</div>
+
+				
+
+				
+	
+		
+	
+		
+			<div class="p-body-header">
+				<div class="pageContent">
+					
+						
+							<div class="uix_headerInner">
+								
+									
+										<div class="p-title ">
+											
+												
+													<h1 class="p-title-value">{keyword}</h1>
+												
+											
+										</div>
+									
+
+									
+										<div class="p-description">
+	<ul class="listInline listInline--bullet">
+		<li> </li>
+		
+	</ul>
+</div>
+									
+								
+							</div>
+						
+						
+					
+				</div>
+			</div>
+		
+	
+
+	
+
+
+				<div class="p-body">
+
+					
+
+					<div class="p-body-inner">
+						
+						<!--XF:EXTRA_OUTPUT-->
+
+						
+	
+		
+	
+		
+
+		
+	
+
+	
+
+
+						
+	
+
+
+						
+	
+
+
+						
+	
+ 
+
+
+	
+	
+		<div class="breadcrumb block ">
+			<div class="pageContent">
+				
+					
+						
+							<ul class="p-breadcrumbs "
+								itemscope itemtype="https://schema.org/BreadcrumbList">
+								
+									
+		
+
+		
+		
+			
+			
+	<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+		 
+		<meta itemprop="position" content="1" />
+	</li>
+
+		
+
+		
+			
+			
+	<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+		 </li></ul></div></div></div></div><footer class="p-footer" id="footer"><div class="uix_extendedFooter"><div class="pageContent"><div class="uix_extendedFooterRow"><div class="block" data-widget-id="12" data-widget-key="footer_onlineStatistics" data-widget-definition="online_statistics"><div class="block-container"><div class="block-body block-row">
+		</div>
+		<div class="block-footer">{manytext_bing}</div>
+	</div>
+</div>
+
+	<div class="block" data-widget-id="13" data-widget-key="footer_sharePage" data-widget-definition="share_page">
+		<div class="block-container">
+			<h3 class="block-minorHeader">Поделиться страницей</h3>
+			<div class="block-body block-row" style="text-align: center;">
+				
+					
+						
+							 
+							<div style="display: none">
+								<div class="uix_shareWidgetModal">
+									<div class="overlay-title">Поделиться</div>
+									<div class="block-container">
+										<div class="block-body">
+											<div class="block-row">
+												
+													
+	
+		
+		<div class="shareButtons shareButtons--iconic" data-xf-init="share-buttons" data-page-url="" data-page-title="" data-page-desc="">
+			
+
+			<div class="shareButtons-buttons">
+				
+
+					
+					 
+
+
+	</body>
+</html>
+
+
+
+
+

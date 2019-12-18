@@ -1,0 +1,121 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<title>個別指導塾アップルズ　大阪高槻校</title>
+<meta name="copyright" content="Nikukyu-Punch" />
+<meta name="description" content="勉強を極める。成績の向上を追求する。その上で、世の中の多くの人に役立つ存在となり、幸せな人生を歩む。生徒をそんな進路へと導く塾。" />
+<link href="style.css" rel="stylesheet" type="text/css" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-113061003-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-113061003-1');
+</script>
+</head>
+
+
+<body>
+
+
+<div id="container">
+
+
+<div id="header">
+<h1>大阪高槻の学習塾。個別指導塾アップルズ　大阪高槻校</h1>
+</div>
+<a href="index.html"><img src="images/menu1.jpg" width="151" height="70" /></a>
+<a href="curriculum.html"><img src="images/menu2.jpg" width="151" height="70" /></a>
+<a href="teacher.html"><img src="images/menu3.jpg" width="151" height="70" /></a>
+<a href="success.html"><img src="images/menu4.jpg" width="151" height="70" /></a>
+<a href="flow.html"><img src="images/menu5.jpg" width="151" height="70" /></a>
+<a href="contact.html"><img src="images/menu6.jpg" width="151" height="70" /></a>
+<!--/header-->
+
+
+<div id="main">
+
+<br />
+
+<h2>合格実績</h2>
+
+<p>
+平成25年度入試合格実績は以下の通りです<br />
+<br />
+<strong class="color1">★大学入試★</strong><br />
+日本大学　芸術学部　1名<br />
+摂南大学　経済学部　1名<br /><br />
+<strong class="color1">★私立高校入試★</strong><br />
+甲南高等学校　普通コース　1名<br />
+大阪学院大学高等学校　普通コース　1名<br />
+箕面学園高等学校　普通科総合選択制　4名<br />
+大阪高等学校　文理特進コース　2名<br />
+箕面自由学園高等学校　特別進学コース　1名<br />
+大阪成蹊女子高等学校　キャリア進学コース　1名<br /><br />
+<strong class="color1">★公立高校入試★</strong><br />
+千里青雲高等学校　総合学科　1名<br />
+福井高等学校　普通科総合選択制　3名<br />
+池田北高等学校　普通科　1名<br />
+渋谷高等学校　普通科　2名<br />
+箕面東高等学校　多部制単位制普通科　2名<br />
+
+<br />
+<br />
+ 
+ </p>
+ 
+ <h2>「成績優秀者奨学金制度」があります！</h2>
+
+<p>
+個別指導塾アップルズ　大阪南平台校では、頑張る中学生の皆さんを応援する「成績優秀者奨学金制度」をスタートしました。
+
+
+ <br />
+ 中学校定期テストにおいて主要5科目の合計点が8割以上だった場合、<br />
+ 翌月通常授業料が<strong class="color1">10％OFF</strong><br />
+ 9割以上だった場合は<strong class="color1">20％OFF</strong>となります。
+ 
+ </p>
+
+</div>
+<!--/main-->
+
+
+<div id="sub">
+
+<ul class="menu"><br>
+<li><a href="contact.html"><img src="images/s1.jpg" width="220" height="90" /></a></li>
+<li><a href="free.html"><img src="images/s2.jpg" width="220" height="90" /></a></li>
+<li><a href="schedule.html"><img src="images/s3.jpg" width="220" height="90" /></a></li>
+<li><a href="studymeeting.html"><img src="images/s4.jpg" width="220" height="90" /></a></li>
+<li><a href="joy.html"><img src="images/s5.jpg" width="220" height="90" /></a></li>
+<li><b><font size="+1">　　外部リンクページ</font></b></li>
+
+<li><a href="http://www.ganbaru.co.jp/itto/" target="blank"><img src="images/menu7.jpg" width="220" height="70" /></a></li>
+<li><a href="http://e-shinwa.net/" target="blank"><img src="images/menu8.jpg" alt="お問い合わせ" width="220" height="70" /></a></li>
+<li><a href="http://www.r-shinwa.jp/" target="blank"><img src="images/menu9.jpg" alt="お問い合わせ" width="220" height="70" /></a></li>
+
+
+
+</br></ul>
+</div>
+<!--/sub-->
+
+
+<div id="footer">
+Copyright&copy; 2013 個別指導塾アップルズ　大阪高槻校 All Rights Reserved.<br />
+<a href="http://nikukyu-punch.com/" target="_blank">Template design by Nikukyu-Punch</a>
+</div>
+<!--/footer-->
+
+
+</div>
+<!--/container-->
+
+
+</body>
+</html>

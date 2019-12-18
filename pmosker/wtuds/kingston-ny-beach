@@ -1,0 +1,481 @@
+
+
+<!DOCTYPE html>
+
+<!--[if IE 8]><html class="ie ie8" lang="en-US"><![endif]-->
+
+<!--[if !(IE 7) | !(IE 8)  ]><html lang="en-US"><!--<![endif]-->
+
+<html>
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+
+<title>Kingston ny beach</title>
+
+<meta name="description" content="Kingston ny beach" />
+
+<meta name="keywords" itemprop="Kingston ny beach" />
+
+<meta property="article:published_time" content="2018-02-07">
+
+<meta property="article:modified_time" content="2018-02-08">
+
+<meta property="og:updated_time" content="2018-02-08">
+
+<link rel='canonical' href='http://hotelguia.co/apkpure-kisah-anak-muslim-2-.com.na.kisahanakmuslim2.html' />
+
+<meta name="robots" content="index,follow" />
+
+<meta name="googlebot" content="index,follow">
+
+<meta name="msnbot" content="index,follow">
+
+
+
+<link rel="icon" href="http://hotelguia.co/images/favicon.ico" type="image/x-icon">
+
+<link rel="shortcut icon" href="http://hotelguia.co/images/favicon.ico" type="image/x-icon" />
+
+<link rel='stylesheet' href='http://hotelguia.co/css/common.css' type='text/css' media='all' />
+
+<link rel='stylesheet' href='http://hotelguia.co/css/grid.css' type='text/css' media='all' />
+
+<link rel='stylesheet' href='http://hotelguia.co/css/style.css' type='text/css' media='all' />
+
+<link rel='stylesheet' href='http://hotelguia.co/css/style-responsive.css' type='text/css' media='all' />
+
+<link rel='stylesheet' href='http://fonts.googleapis.com/css?family=PT+Sans%3A400%2C700%2C400italic%2C700italic&#038;ver=4.1.1' type='text/css' media='all' />
+
+<link rel='stylesheet' href='http://fonts.googleapis.com/css?family=PT+Sans' type='text/css' media='all' />
+
+<link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Anton' type='text/css' media='all' />
+
+<link rel='stylesheet' href='http://hotelguia.co/css/post-ratings.css' type='text/css' media='all' />
+
+ 
+
+<link href='https://plus.google.com/101687486477768503275/posts' rel='publisher'/> 
+
+<link href='https://plus.google.com/101687486477768503275/about' rel='author'/> 
+
+<link href='https://plus.google.com/101687486477768503275' rel='me'/>
+
+
+
+<style>
+
+body {
+
+background: #EBEBEB;
+
+font: normal 12px/18px Arial, Helvetica, sans-serif; color: #3c3c3c;
+
+}
+
+h1{font: normal 24px/18px PT Sans; color: #3C3C3C;}
+
+h2{font: normal 22px/22px PT Sans; color: #3C3C3C;}
+
+h3{font: normal 20px/18px PT Sans; color: #3C3C3C;}
+
+h4{font: normal 18px/18px PT Sans; color: #3C3C3C;}
+
+h5{font: normal 15px/18px PT Sans; color: #3C3C3C;}
+
+h6{font: normal 14px/18px PT Sans; color: #3C3C3C;}
+
+.ndelik{height:0px;width:auto;overflow: auto;}
+
+.sf-menu > li{font: normal 17px/55px PT Sans; color: #3c3c3c;}
+
+.sf-menu > li li{font: normal 15px/16px PT Sans; color: #3c3c3c;}
+
+#footer a{font: normal 12px/12px Arial, Helvetica, sans-serif; color: #121212;}
+
+.rating {float:left;width:110px;}
+
+.rating .stars {float:left;width:100px; height:20px; background:url('http://hotelguia.co/images/stars.png') no-repeat 0 0;}
+
+.rating .stars-in {display:inline; background:url('http://hotelguia.co/images/stars.png') no-repeat 0 bottom; position:absolute; height:20px; font-size: 0; line-height: 0; text-indent: -4000px;}
+
+.message_info:before {
+
+background-image:none;
+
+height: 0px;
+
+width: 0px;
+
+}
+
+.site_li li a{text-decoration:none;}
+
+.site_li li a:hover{text-decoration:underline;}
+
+
+
+.breadcrumb {
+
+	display: inline-block;
+
+/*	box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.35); */
+
+	overflow: hidden;
+
+/*	border-radius: 5px; */
+
+	counter-reset: flag;
+
+	margin-bottom:20px;
+
+}
+
+
+
+.breadcrumb a {
+
+	text-decoration: none;
+
+	outline: none;
+
+	display: block;
+
+	float: left;
+
+	font-size: 12px;
+
+/*	line-height: 14px; */
+
+	color: white;
+
+	padding: 0 10px 0 17px;
+
+	background: #666;
+
+	background: linear-gradient(#666, #333);
+
+	position: relative;
+
+}
+
+.breadcrumb a:first-child {
+
+	padding-left: 10px;
+
+/*		border-radius: 5px 0 0 5px; to match with the parent's radius*/
+
+}
+
+.breadcrumb a:first-child:before {
+
+	left: 14px;
+
+}
+
+.breadcrumb a:last-child {
+
+/*		border-radius: 0 5px 5px 0; this was to prevent glitches on hover*/
+
+	padding-right: 20px;
+
+}
+
+
+
+.breadcrumb a.active, .breadcrumb a:hover{
+
+	background: #333;
+
+	background: linear-gradient(#333, #000);
+
+}
+
+.breadcrumb a.active:after, .breadcrumb a:hover:after {
+
+	background: #333;
+
+	background: linear-gradient(135deg, #333, #000);
+
+}
+
+
+
+.breadcrumb a:after {
+
+	content: '';
+
+	position: absolute;
+
+	top: 0; 
+
+	right: -7px; /*half of square's length*/
+
+	width: 18px; 
+
+	height: 18px;
+
+	transform: scale(0.707) rotate(45deg);
+
+	z-index: 1;
+
+	background: #666;
+
+	background: linear-gradient(135deg, #666, #333);
+
+	box-shadow: 
+
+		2px -2px 0 2px rgba(0, 0, 0, 0.4), 
+
+		3px -3px 0 2px rgba(255, 255, 255, 0.1);
+
+	border-radius: 0 5px 0 50px;
+
+}
+
+.breadcrumb a:last-child:after {
+
+	content: none;
+
+}
+
+/*
+
+.breadcrumb a:before {
+
+	content: counter(flag);
+
+	counter-increment: flag;
+
+	/*some styles now*/
+
+	border-radius: 100%;
+
+	width: 20px;
+
+	height: 20px;
+
+	line-height: 20px;
+
+	margin: 8px 0;
+
+	position: absolute;
+
+	top: 0;
+
+	left: 30px;
+
+	background: #444;
+
+	background: linear-gradient(#444, #222);
+
+	font-weight: bold;
+
+}
+
+*/
+
+
+
+.flat a, .flat a:after {
+
+	background: white;
+
+	color: black;
+
+	transition: all 0.5s;
+
+}
+
+.flat a:before {
+
+	background: white;
+
+	box-shadow: 0 0 0 1px #ccc;
+
+}
+
+.flat a:hover, .flat a.active, 
+
+.flat a:hover:after, .flat a.active:after{
+
+	background: #90bb41;
+
+}
+
+table a{text-decoration:none;font-weight:bold;}
+
+ins{background-color:transparent;}
+
+</style>
+
+
+
+</head>
+
+<BODY itemscope itemtype="http://schema.org/WebPage">
+
+<div class="content-wrapper container_12">
+
+
+
+
+
+<div id="main_menu" class="container_12">
+
+<nav id="site-navigation" class="main-navigation" role="navigation">
+
+ 
+
+<div class="responsive-menu-items"></div>
+
+</nav>
+
+</div>
+
+
+
+  <div id="container" class="container_12 clearfix">
+
+
+
+<h2 style="display:none;"><span>Thursday, February 8, 2018</span></h2>
+
+
+
+	<div id="content" class="grid_8" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+
+			<article class="node" itemprop="articleBody description">
+
+
+
+<div class="container_12 clearfix">								
+
+<div class="breadcrumb flat" xmlns:v="http://rdf.data-vocabulary.org/#">
+
+	</div>
+
+</div>
+
+		    
+
+<figure class="wrap_me align_left FIGURE-GRB"></figure>
+
+
+
+<h1 class="title TTL-GRB" itemprop="name"> Kingston ny beach</h1>
+
+
+
+<p class="RATE-GRB">
+
+<span class="rating"><span class="stars"><span class="stars-in" style="width:px"></span></span></span>
+
+  
+
+</p>
+
+
+
+<div class="ndelik"> Take in some culture at top places like National Gallery of Jamaica and Bob Marley Museum.  This Marriott hotel offers a convenient location near the Hudson River and nearby attractions.  New York, NY Miami, FL Los Angeles, CA backpage-escorts.  Fall Program Registrations Open Create an Account, then click the activities page to register.  2 Bedrooms, 2 Baths, Sleeps 6 - $59 avg/night - Myrtle Beach - Amenities include: Swimming pool, Air Conditioning, Internet, TV, Satellite or Cable, Washer &amp; Dryer, Heater, Parking Bedrooms: 2 Sleeps: 6 Minimum stay from 3 night(s) Bookable directly online - Book vacation rental 1481362 with Vrbo.  View phone numbers, addresses, public records, background check reports and possible arrest records for Gregory in Kingston, NY. .  New York State Fair; This undeveloped sand beach on the eastern shores of Lake Ontario is traditionally nude, though patrolling Dune Stewards can give you a citation if you don&#39;t cover up.  Swimming season in Kingston, New York and the Hudson Valley is a great time for fun and togetherness with friends and family.  The property boasts 400 feet of beautiful Cayuga Lake shoreline, a private dock, and a sandy beach! This page provides a complete picture of Denise, allowing you to learn the truth about Denise &amp; for Denise to look their best when friends, colleagues, employers, clients, possible dates, &amp; others search for them online.  For more information about those areas, please visit www.  Program Secondary Category.  Camping World of Kingston is located at 124 Rte 28 in Kingston, New York. 947. 00 - Save money and book your bus ticket online today! Tour in style with new bus amenities offered by Greyhound.  - Manhattan Beach had 14.  $10 donation.  The round trip cost would be $135.  A very scruffy beach Kingston Point Beach is located toward the end of a dead end road across the street from a old park. com has 9 Mobile Home Parks near Kingston, NY.  The information GoTicketio provides its costumers about the bus from Kingston to Boynton Beach is not official.  According to our database, the best route to go from Kingston to Boynton Beach is through West New York and West Palm Beach. 9% more residents who had graduated High School compared to Kingston Route Map from Kingston, NY to Rehoboth Beach, DE.  Serving the people of the South County region since 1875, the historic wood frame New York, Providence and Boston Railroad depot is watched over by a local &quot;Friends&quot; group. 2444 273 Homes For Sale in Kingston, NY.  Current time in both locations is 12:31 pm.  Outdoor Adventure.  Spokeo is a leading people search directory for contact information and public records.  This, Kingston Point, NY, On The Sand Beach, Adults, Children, Postcard 1907, has some See Historical Weather Data for a Location and Date.  This is the fastest route from Kingston, NY to Atlantic Beach, NY.  Road trip planner. 5 hours north of New York City.  Call (401) 295-1100 for information and reservations (required).  We hear family matters, personal injury claims, commercial disputes, trust and estates issues, criminal cases, and landlord-tenant cases.  What&#39;s Kingston like? Kingston is a friendly locale known for its restaurants. 3% less expensive likely to be rented in Manhattan Beach than in Kingston.  We hear more than three million cases a year involving almost every type of endeavor.  Find out where the best wineries and wine tours are near Kingston, New York in the Hudson Valley Region.  KINGSTON POINT, NY, On The Sand Beach, Adults, Children, Postcard 1907 - $0.  Get the scoop on the 8 condos and townhomes for sale in Kingston, NY.  hudson valley boats - by owner - craigslist favorite this post Sep 1 Future Beach Trophy 126 DLX Angler Kayak $325 (Kingston, New York) The New York State Department of Environmental Conservation (NYSDEC) - New York State&#39;s environmental protection and regulatory agency Airline Flight # Arriving From Gate Scheduled Arrival Actual Arrival Status; B62859: NEW YORK: 9: Sep 01, 2019, 01:20 am: Sep 01, 2019, 01:46 am The Mercedes-Benz Center at Keeler Motor Car Company is home to Mercedes-Benz, smart, and the Sprinter Van models.  Please let me know after purchase if you would like tracking. net is an interactive computer service that enables access by multiple users and should not be treated as the publisher or speaker of any information provided by another information content provider.  Route.  The total cost of driving from New York, NY to Myrtle Beach, SC (one-way) is $67.  Super 8 hotels offers best available rates, free breakfast and wifi.  Choose dates, view seating charts and start planning an exciting trip to Ulster Performing Arts Center Kingston NY today! News from around the web. com sun and sand weather forecasts provide hourly weather conditions for the beach or pool in Kingston, NY and other US locations Stay at Kingston Resorts in Myrtle Beach and choose from award-winning guest rooms and family suites, to oceanfront villas and home-style condos.  Vehicle registration required when purchasing sticker.  Driving distance from Kingston, NY to Virginia Beach, VA is 0 miles or 0 km.  There is a large beach area for sunbathing and swimming with lifeguards on duty.  Find, research and contact wedding professionals on The Knot, featuring reviews and info on the best wedding vendors.  Kingston Point Beach Pavilion at Kingston Point Beach Our busy cosmopolitan Kingston is one-of-a-kind; half exotic jungle, bursting with sunshine, and half thriving business.  Ramapo.  The land of Kingston Point Park has a long and intriguing history, beginning in 1897, Kingston Point has been a &quot;must see&quot; for visitors for over 100 years, with its beautiful views of the Hudson River, Rhinecliff and the surrounding natural areas, Kingston Point Park is an oasis in our urban city.  5 Best Restaurants in Kingston, NY &amp; Around In Food &amp; Drink , New York , Press Trips , United States by Sheena September 14, 2017 5 Comments From tapas to buffets &amp; cocktails to craft beer, there’s something for all tastebuds on our list of top restaurants in Kingston, NY &amp; around. 99.  Belong anywhere with Airbnb.  The 1000 Islands/Kingston KOA has &quot;Big Rig&quot; friendly level pull-thru 50 amp sites to accommodate every type of RV, or you can treat yourself to one of our deluxe sites with concrete deck, patio furniture, and a wooden swing.  Kingston and Atlantic Beach are 2 hours 4 mins far apart, if you drive non-stop.  Your trip is beckoning, so answer the call by packing your suitcase and filling your travel itinerary with exploring Palm Beach - West Palm Beach. 54 ft.  Cordts purchased land in the Rondout area of Kingston along the Hudson River.  This park is a 20 minute drive (16 km) from downtown along Highway 2 East.  Explore City of Kingston.  We invite you to visit our 6 acre lot with over 300 RVs, as well as 18 service bays with a full Body Shop and a state of the art Paint SplashDown Beach is America&#39;s biggest little water park! Featuring water rides for all ages and fun for the whole family.  See what’s in store.  1 day ago Mavis Discount Tire, Newburgh NY &quot;Keep up the good work&quot; - Newburgh, NY 1 day ago Mavis Discount Tire, Jacksonville FL &quot;Always a great experience&quot; - Ponte Vedra Beach, FL 1 day ago Mavis Discount Tire, Farmingdale NY &quot;excellent friendly service&quot; - West Babylon, NY 1 day ago Mavis Discount Tire, West Orange NJ Find John Smith in Kingston, New York: phone number, address, email and photos.  This would be considered well above the national population density level.  7 Miles to Kingston • Marbletown, NY • Sleeps - The median age of a home in Manhattan Beach is 32.  Welcome to the City of Kingston, NY.  Sep 01, 2019 - Rent from people in Kingston, Jamaica from $20/night.  Highway 9W runs north-south through the city.  Our professionally trained, RVDA-RVIA certified technicians take pride in their workmanship and are committed to customer satisfaction.  Bus routes from Myrtle Beach, Sc to Kingston, Ny from $142.  Browse photos, see new properties, get open house info, and research neighborhoods on Trulia.  Erosion is the loss or displacement of land along the coastline due to the action of waves, currents, tides, wind-driven water, waterborne ice, or other impacts of storms.  Neil L Kronick, DDS is a Dentist primarily located in Kingston, NY, with another office in Vero Beach, FL.  There are two sections of this beach, which is a favorite for visitors of Kingston as well as the local residents of Kingston and Portmore.  The New York State Thruway, also known at this section as Interstate 87, runs through the western part of the city.  Whitepages people search is the most trusted directory. com.  Also, picking up rough rocks from the shore line you will see white, black, red, and brown colors.  With two sand beaches and 31 reservoirs and lakes, visitors to New York State’s second-largest park have plenty to explore.  Summer fun in Fishkill, NY Zillow has 198 homes for sale in Kingston NY.  Welcome to our modern Residence Inn Kingston hotel located near the Hudson Valley Mall &amp; Bard College.  See reviews, photos, directions, phone numbers and more for The Beach locations in Kingston, NY. 1870 to 1980.  We did however find 20 campgrounds within 25 miles of Kingston.  Kingston Urgent Care is closed and will re-open on October 1.  Travel time by car is .  Our fully stocked parts and accessories centers carry over 14,000 products, so you can find everything you need to outfit and maintain your RV.  Driving distance from Virginia Beach, VA to Kingston, NY is 0 miles or 0 km.  It is Apartments for Rent in Kingston, NY You searched for apartments in Kingston, NY.  24 likes · 522 were here.  The park&#39;s oceanfront setting and natural environment have little development or advertising, creating a refreshing break from the hectic pace of life of Long Island and the metropolitan area.  The actual beach is pretty small but does have a playground, small boat launch, picnic area and little building they call an interpretive center.  Learn more about rehearsal dinner + bridal showers in Kingston on The Knot.  The Port of Kingston welcomes you to our Marina, and we invite you to explore all the Port and our surrounding community has to offer.  For thirty years, Hudson River excursions with Hudson River Cruises has provided passengers a first hand view of the historic shoreline from the decks of the Rip Van Winkle.  Ulster Landing County Park.  Big Sandy Bay is one of the great beaches of Lake Ontario.  Kingston Tourism: TripAdvisor has 13,275 reviews of Kingston Hotels, Attractions, and Restaurants making it your best Kingston resource.  We do our best to keep our rental costs down.  Find many great new &amp; used options and get the best deals for C. Expert Kingston is a city in and the county seat of Ulster County, New York, USA.  Trek Surly Electra Jamis and more.  They charge separate for 30 or 50 amp, then add on for use of A/C&#39;s or heaters. com! We have a large number of rental properties, including pet friendly apartments! Kingston Plantation Condos, offering Myrtle Beach vacation rentals managed by Hilton, are located on the north end of Myrtle Beach, South Carolina on the Grand Strand.  (lower means fewer students in each classroom).  - Homes are 41.  Roosevelt and the Vanderbilt Mansion.  See a timeline of Kingston firsts Beach Volleyball - Coed Low B on May 22, 2019 in Kingston, NY at Kingston, New York, United States.  A few spots to perhaps pull up a lawn chair and enjoy the view, but that is about it.  It is famous for its fine natural harbour, which is protected by the Palisadoes, a narrow peninsula that has been developed as a recreational and tourist resort.  See reviews, photos, directions, phone numbers and more for the best Bars in Kingston, NY.  - Boat and Beach provides Tide times and information along with current weather conditions with UV index and Sunset data from weather.  You can Browse Living in Kingston, NY.  Save 60% or more today! At Kingston Point Beach you can even find some sticks and smooth things like seashells or bones of little fishes. A very scruffy beach Kingston Point Beach is located toward the end of a dead end road across the street from a old park.  Find your dream home in Kingston using the tools above.  Guests can work up a sweat on the 200 miles of hiking trails, or opt to go boating or fishing.  Come see live Kingston nudes of real local girls that love to strip in front of their webcams The Rondout–West Strand Historic District is located on the shore of Rondout Creek along the southern boundary of the city of Kingston, New York, United States.  You can also find a list of cities with campgrounds or RV Parks near Kingston in the left hand column.  This is the fastest route from New Kingston, NY to Myrtle Beach, SC. com®.  Best of Kingston, New York, United StatesEvents and nearby Activities, Find information and tickets of upcoming events and things to do in Kingston like parties, concerts, meets,shows, sports, club, reunion, Performance.  Shop for 998 deals across a selection of hotels, starting at USD 63 per night.  We take walk-ins and reservations! Stop down and start your day away! New York Rowing t-shirts » New York Lacrosse t-shirts » New York Bodybuilder t-shirts » New York Rocks t-shirts » New York City t-shirts » New York City t-shirts » I&#39;d Rather Be In New York City t-shirts » Somebody In New York City Loves Me t-shirts » Manhattan 212 t-shirts » New York City t-shirts » Property of 212 New York City t Campers Inn RV of Kingston is a full-service RV dealership.  According to our database, the best route to go from Kingston to Virginia Beach is through New York.  Take a look at the route we propose for this trip. ny.  Enterprise streaming solutions.  Recent and/or reliable water quality information is unavailable.  Visit BedandBreakfast.  - Manhattan Beach spends 42.  Large sandy beach with a The New York State Parks, Recreation and Historic site system is divided into eleven regions.  Find Ulster Performing Arts Center venue concert and event schedules, venue information, directions, and seating charts.  Our Kayaking Tours on the Hudson River and Esopus Creek are the perfect way to relax and experience the beauty of the Hudson Valley and Catskill Mountains.  The Kingston Training Group educates technology sales executives on every type of prospect across 60+ industries and how they proprietarily use technology. 0% less per student than Kingston.  Gardens, a lavender farm &amp; mid-century home create the perfect NW setting for your celebration or weekend getaway.  845.  We have a lot of fun here and we make sure you&#39;ll have a great time, too.  Research, compare and save listings, or contact sellers directly from 57 Escort models in Kingston.  Current time in both locations is 10:37 am.  Its a little north of Saratoga Springs and right next to Glens Falls.  Bus between Kingston &amp; Long Island When traveling by bus to Long Island or by bus from Long Island, TrailwaysNY is the premier choice for safe, economical, reliable and comfortable transportation.  If you would like tracking with your shipment, that will be an extra $1.  We offer non–stop flight service to Jamaica from many major cities in the United States and Canada, including New York, Chicago, Boston, Washington D.  Find airfare deals on cheap tickets from Kingston (KIN) to Myrtle Beach (MYR) and save on your next flight with Flights.  Hudson Valley Travel ← Return to search Travel.  Bayley) The HUTTON Brickyard: A major manufacturer of quality brick (primarily for NY City) from ca.  Full kitchens in every room make our hotel perfect for a weekend away at Hunter Mountain or Belleayre Ski Center.  Choose from a selection of fine dining outlets and oceanfront casual restaurants, serving up a feast of local favorites.  Demetri Martin is a standup comedian, writer, actor and director.  Beach.  Kingston Lighthouse Kingston Wine Co. Brunette is a natural wine bar in the historic downtown waterfront district of Kingston, NY.  Rondout Creek is heavily used for boating tubing team rowing kayaking and fishing.  Kingston Public Library Barbara Thorbjornsen, Director (865) 376-9905 1004 Bradford Way.  New Kingston, NY and Myrtle Beach, SC are in the same time zone (EDT).  Measles Vaccine Important Information Where is the closest beach on the ocean where i live? i live in a town about an hour north of Albany, NY called Queensbury.  How long is the drive from New York, NY to Myrtle Beach, SC? The total driving time is 10 hours, 15 minutes.  The sewage treatment plant discharges into Rondout Creek at Kingston.  Sections of this page.  Kingston NY.  New Kingston and Myrtle Beach are 13 hours 46 mins far apart, if you drive non-stop.  Book today and save with Wyndham Rewards, the award-winning hotel rewards program.  Forgotten over the years it has reemerged in recent years. 1900-1910 Point Park Kingston, NY Lake Beach Ship People Postcard P90 at the best online prices at eBay! .  Feel the love at the Bob Marley Museum, explore architectural genius at the Devon House, and enjoy a stroll through Emancipation Park.  Buyer to pay $1.  Three or Five Spray Tans at AZ Beauty Lounge (Up to 74% Off).  At Kingston, we want every student to succeed, and we are committed to working with students to ensure that they learn and grow in a supported and enriching environment.  Check out places to visit in Kingston including Grays Beach Park and Cranberry Watershed Preserve.  We promote Downtown Kingston! as the hip, vibrant, authentic, and healthy commercial, retail, residential, and entertainment centre of our region, attracting more people to live, shop View the full Ulster Performing Arts Center events schedule and all available Ulster Performing Arts Center tickets here.  Looking for Kingston NY Hotels by the Beach? Find Great Deals on Beachfront Hotels in Kingston, Backed by Our Daily Hot Rate Deals, and Save 60% Today! Hellshire Beach.  Increased flexibility is the main benefit when it comes to buying a one way flight from Kingston, Jamaica to New York City.  Kingston Technology has a unique culture that empowers employees and welcomes their suggestions.  You Revolution Bicycles is a full service shop with the largest selection of the best brands of bikes and accessories, central to bike trails.  Here in Find Dean Beach in New York: phone number, address, email and photos.  In the wake of Superstorm Sandy, which struck New York City in October 2012, Rockaway Beach has also become a testament to New York&#39;s resilience, and a model for sustainable rebuilding.  Kingston, NY and Atlantic Beach, NY are in the same time zone (EDT).  Map Lower Delaware Ave.  213 Homes For Sale in Kingston, OK.  Reher Center July 1, The Trolley Museum of New York July 1, 2015 / by waterfrontmaster.  Looking for Kingston SE hotels by the beach? Find great deals on beachfront hotels in Kingston SE, backed by our daily hot rate deals. S.  This riverfront destination has 10 beach hotels and other accommodation options to choose from, so it&#39;s easy to find one that works for you.  Find beach resort in Kingston, NY on Yellowbook. 32 miles (6.  Increased flexibility is the main benefit when it comes to buying a one way flight from Kingston, Jamaica to Myrtle Beach.  West of Kingston, you will find Hellshire Beach, situated near the town of Portmore.  Filtering with keyword search is also possible, like &quot;waterfront&quot; or open house homes in Kingston.  Gift cards for Kingston Point Beach, 53 Delaware Ave, Kingston, NY.  The Atlantic coast is a natural choice for those who love fun in the sun, from the Coney Island Boardwalk and the pristine Fire Island National Seashore, to the ever-popular hot spots in the Hamptons, like Main Beach and Coopers Beach.  We have found that there is often no price difference between buying a round trip flight versus a one way flight.  Beach Volleyball - Coed Upper B on May 21, 2019 in Kingston, NY at Kingston, New York, United States.  Come for a kayak instruction, nature tours, and boat demos.  Apartment communities owned and managed by Larrymore are located in Virginia Beach including Banbury Lake, Eastwyck Village and Jamestown Commons and in Norfolk, Virginia including Round Bay, as well as Kingston, New York’s Stony Run apartment community.  Jump to.  Includes Kingston Point Beach Reviews, maps &amp; directions to Kingston Point Beach in Kingston and more from Yahoo US Local Beach in Kingston, NY Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns. 3 km²) containing 259 buildings, most dating to the 19th century. 53 to go from New York, NY to Myrtle Beach, SC and back to New York, NY again.  554 likes.  100% satisfaction guaranteed.  Welcome to the Kingston Recreation Department . 0% higher in Manhattan Beach than in Kingston. dec.  Whether we are treating your teeth, smile, or bite, we never lose sight of YOU as our patient and our desire to make your dental experience as stress free and pleasant as possible.  Tanning deals in Kingston, NY: 50 to 90% off deals in Kingston.  Kingston, dating to the arrival of the Dutch in 1652, is a vibrant city with rich history and architecture, was the state&#39;s first capital, and a thriving arts community.  It became New York&#39;s first capital in 1777, and was burned by the British Oct.  The traditional Bon-odori Dance Festival is a part of Buddhist ritual ‘Obon’.  Kingston, NY This official beach has swimming, fishing from the shoreline, kayaking and recreational boating in the vicinity.  Our Worry-Free Guarantee.  Kingston House is a 27-acre Kitsap wedding and lodging venue.  Opendi Kingston, NY features companies in all categories from Garage Construction to Gymnastics Admission to SplashDown Beach Water Park.  Hi Hfdad, Welcome to the KINGSTON TRAVEL FORUM.  Swimming is available at Lake Tiorati’s sandy beach, and camping is allowed at the park as well.  Named by USA Today as one of the &#39;Top 10 Luxury Hotels in Myrtle Beach,&#39; Kingston Plantation Condos are nestled on 145 lush acres along a mile-long stretch of Myrtle Beach Buy Ulster Performing Arts Center tickets at Ticketmaster.  Join Kenco Outfitters and the City of Kingston for this exciting event which is sure to prepare you for a summer full of kayaking.  Kingston, NY 12401.  Our newly renovated lobby, featuring The Bistro* with Starbucks, and our spacious guest rooms make us the smart choice in Hudson Valley Hotels.  Driving time is about 2 hours from Man­hat­tan and 1 hour from Albany.  Take the New York State Thruway to Exit 19, Kingston.  Get reviews and contact details for each business including videos, opening hours and more.  View 316 homes for sale in Kingston, NY at a median listing price of $235,000.  Belleayre Mountain is a 4 season ski resort located in the heart of the Catskill Mountains in Highmount, NY, just 2.  View phone numbers, addresses, public records, background check reports and possible arrest records for Dean Beach in New York (NY).  In days of old it was a stop for ships and a fairground.  Enter a zip code or city/state to use our interactive map.  Water Department Business Office Carolyn Brewer (865) 376-6584 Cast a line, hike through the trails or take a short drive to the quaint little town of New Paltz from this historic RV camp in New York.  Experience first-hand the history, culture, and seasonal activities Kingston has to offer.  Our Long Island bus service runs to and from many cities and towns within New York State for your convenience.  It is then followed by a low tide at 11:58 am with a maximum water level of 0.  Season passes, half day &amp; full day tickets, military/police discount, group packages, birthday parties, cabana pricing and more.  Go finding at HomeGoods for an ever-changing selection of amazing finds at incredible savings.  Optimal route map between Kingston, NY and Rehoboth Beach, DE.  The tide chart above shows the height and times of high tide and low tide for Kingston Point, Hudson River, New York.  This completely non-smoking hotel in Kingston, New York offers a free hot breakfast and free high-speed internet access.  Hudson River - Kingston Point Tides updated daily.  Find unique places to stay with local hosts in 191 countries.  kingston ny escorts Therapeuticll Birch Body Care, 73 Crown Street, Kingston, NY 12401 Shop Ford Escort vehicles for sale in Kingston, NY at Cars.  Year * craigslist provides local classifieds and forums for jobs, housing, for sale, services, local community, and events Opendi Kingston, NY features companies in all categories from Ear Care to Eyewear Grass Creek Park is a 95 acre rural park in Kingston East.  Alternatively, you can take a bus from Kingston to Point Pleasant Beach via Rosendale, New York, NY - Port Authority, and Asbury Park Transportation Ctr in around 7h 13m.  Buy a Kingston Point Beach gift card.  This route will be about 298 Miles.  Kingston is &quot;pro&quot; active.  Summer is synonymous with the beach, and New York State has some of the best, with a perfect waterside escape for just about everyone.  Hampton Inn Kingston is located near Hyde Park, and has views of the home of President Franklin D.  Located on the Delaware Shores, the Rehoboth Beach &amp; Dewey Beach Resort Area is known for its award-winning boardwalk, awesome hotels, specialty stores, amusements, beautiful homes, tax-free shopping and some of the finest restaurants anywhere.  We show you all available schedules for each bus trip.  We currently don&#39;t have any vacation homes for rent in Kingston, NY, but we do have 12 homes and 10 apartments available for rent with rental rates ranging from $950 to $2,310.  Following information will answer the question.  AVP Pro Beach Volleyball held its first-ever tournament in Manhattan last week and photographer Robert Beck was there to capture all of the action.  Where are the best ﻿places to stay in Kingston? Larrymore Organization property management services include rentals and leasing.  Find Furniture, Rugs, Décor, and More.  Your trip begins in New York, New York.  Berkshire Hathaway HomeServices Hudson Valley Properties/Millbrook Real Estate is a full service, locally owned and operated real estate firm backed by the strength of a global network. 88 gallons of gas to get the route between these points. 10. Formerly Rondout, New York, it is bounded by the creek, Broadway, Hone, Ravine and McEntee streets, an area of 570 acres (2. 77 at current gas prices.  Don&#39;t forget to check out our &quot;Gas calculation&quot; option. Please note, a convenience fee may be applied to some online transactions.  One, Two, or Three Spray Tans from Dara at Reflections Salon (Up to 60% Off).  Beach goers can enjoy the sand and water, the variety of concessions, and the city&#39;s only legal surfing beach, located between 67-69 Street and 87-92 Street.  Detailed forecast tide charts and tables with past and future low and high tide times Hudson River - Kingston Point Tide Times, NY - WillyWeather Looking for an apartment / house for Rent in Kingston, NY? Check out RentDigs.  We make it easy to find your dream home by filtering home types, price and size.  Make your way to the bottom of Broad­way and turn left.  2 Delaware Ave.  Learn more about local market trends &amp; nearby amenities at realtor.  Not here! Kingston Point Beach, Kingston, New York.  &quot;Rotary Park&quot; at Kingston Point Park; Block Park; Forsyth Nature Center; Forsyth Park; Hasbrouck Park; Hutton Park; Kingston Point Beach; Loughran Park KINGSTON - The city closed its beach on the Hudson River at Kingston Point Friday after water samples detected elevated levels of fecal bacteria in the water.  About Kingston.  16, 1777, after the Battles of Saratoga.  Welcome to the Best Western Plus in historic Uptown Kingston, NY.  It will calculate approximate cost of driving the distance between Kingston, NY and Virginia Beach, VA.  The Catskill Mountains are a short drive from the hotel.  Villa, 2 Bedrooms 2 Baths, - $96 avg/night - Myrtle Beach - Amenities include: Hot Tub, Swimming pool, Air Conditioning, Internet, TV, Satellite or Cable, Fireplace, Washer &amp; Dryer, Heater, Children Welcome, Parking Bedrooms: 2 Sleeps: 6 Minimum stay from 3 night(s) Bookable directly online - Book vacation rental 120313 with Vrbo.  GPS tips Kingston Nude, Nude Kingston, Kingston Girls Nude, Kingston Nudes.  The yellow shading corresponds to daylight hours between sunrise and sunset at Kingston.  Parking stickers can be purchased at the Kingston Town Hall, 26 Evergreen Street, Board of Selectman’s Office.  Regardless of the reason, a flight from Kingston to Palm Beach - West Palm Beach will do just the trick! Go on, plan to see all the famous landmarks and eat your weight in the local cuisine.  We also have Camping Cabins for 4-6 people and Deluxe Cabins with washrooms and kitchens.  Kingston Point Beach and Rotary Park July 1, 2015 / by waterfrontmaster.  With plenty to see and do, Kingston is a crash course in the island of rhythm and sway.  The KINGSTON STOCKADE FOOTBALL CLUB is a men&#39;s semi-professional soccer club based in Kingston, NY.  U.  By continuing to use our site, you accept the use of our cookies as described in our privacy policy and cookie policy.  We‘ve built a game-changing new way of doing business.  In 1865 William Hutton and John H.  New York Newburgh Nyack Olivebridge Kingston, New York Campgrounds It looks like we do not have any campgrounds in our database for camping in Kingston, New York.  Hi, family with 2 small kids will be driving from NY to myrtle beach this summer and want to stop somewhere 1-2 nites on the way there not off the beaten path of I95.  As an elementary school student, your child will undergo many changes during their years here.  Before long, it will become clear: Uptown Kingston is chock-full of meaningful sites and things to do.  This empowers the sales executive to recommend the right technology infrastructure solutions, by enhancing their understanding of their prospect&#39;s business.  We offer our Simplex Quality Modular Homes to a local builder network we have built in Connecticut, Delaware, Maryland, Maine, Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Rhode Island, Virginia, Vermont, Washington D.  At Kingston Point Beach the feeling of the really soft sand is warm, but sometimes it’s really hot to fall on.  kingston, ON apts/housing for rent - craigslist favorite this post Sep 2 Prime Beach Large 2 Bdrm, Parking, Lake views $2800 2br - 1200ft 2 - Bath Beach on a Summer&#39;s Day, Kingston, NY.  Gray&#39;s Beach Parking Stickers Fees: Resident Fee - $15; Non -Resident Fee- $30.  See all 31 photos taken at Kingston Point Beach by 266 visitors.  Patients needing walk-in services, please visit our Rhinebeck Urgent Care located at 6734 Route 9.  If you would prefer, you can register over the phone or in person by visiting the Kingston Parks and Recreation Department. C.  The options are endless, but one thing is for sure: you will love every minute of the adventure when you stay with us at Rondout Valley - the premier RV camp in New York&#39;s Hudson River Valley.  See pricing and listing details of Kingston real estate for sale.  Courtyard by Marriott Kingston, in the heart of the beautiful Catskill Mountains, is your destination hotel in the Kingston, NY area.  Each of our resorts is just a short flight away, and accessible via airports in Kingston and Montego Bay.  Kingston Urgent Care is closed and will re-open on October 1, however our main Kingston office is open for regularly scheduled appointments.  30000+ detailed listings for New York artists, New York crafters, food vendors, concessionaires and show promoters Ontario Beaches: The Best of the Best! Considering how cold the winters can be, talking of Ontario beaches may seem counter-intuitive but Ontario has great beaches and most of them are uncrowded even in the hottest summers.  We were $242 for 5 nights with a Good Sam discount.  • Camp Wiltmeet , for children entering Kindergarten - Grade 10.  We service all of your RV needs including Sales, Service, Parts and Accessories.  Register for Programs View and select the program you would like to register for.  Held at the Kingston YMCA, 507 Broadway, Kingston, NY 12401.  Booking a Kingston Beach Musician through GigSalad offers you extra protection you can’t get anywhere else. Howard Beach, New York, NY, 11414 All Kingston, New York ZIPS: 12401 Last searches: bi Following information will answer the question.  Kingston, NY 12402 The Kingston-Rhinecliff Bridge, carrying New York State Route 199, is the nearest bridge traversing the Hudson River at 4. 75 shipping within the US.  Description Play Beach Volleyball at Kingston Point Beach! ACTIVE WORKS® From marketing exposure to actionable data insights, ACTIVE Works® is the race management software for managing &amp; marketing your events.  Next stop, your vacation.  Beginning in 1897, Kingston Point has been a “must see” for visitors for over 100 years, with its beautiful views of the Hudson River, Rhinecliff and the surrounding natural areas, Kingston Point Park is an oasis in our urban city.  This Kingston, New York hotel features an indoor swimming pool, restaurant and lounge, and free WiFi access throughout.  Bars in Kingston on YP. , Toronto, Los Angeles, and many more.  Looking for Mobile Home Parks? MobileHomeParkStore.  AccuWeather.  Bon-Odori Dance Festival for Peace, Kingston, New York.  and West Virginia.  Management dashboard, analytics reports, visitor information and geographic location. com Kingston Point Park is a beautiful park on the Hudson River in Downtown Kingston New York.  By leveraging unrivaled real estate expertise, hyper-local market knowledge, and advanced digital marketing capabilities, our top-producing agents deliver industry-leading customer service, expertly buying and selling faster and smarter to ensure all our clients Make the Right Move.  Meanwhile, Fort Clarence Beach is also a must-stop destination during your time on the island.  The county Health Department detected Take in all the tranquil features that beautiful Cayuga Lake provides on your next New York vacation.  Press alt + / to open this menu.  Find 3030 listings related to The Beach in Kingston on YP.  Kingston has a population density of 3,142 people per square mile.  Please note: The Weather Network partners with The Swim Guide to provide the most up-to-date conditions for beach locations.  Cash or Check Only.  We provide one of the best outdoor adventures in Kingston.  State land in the Adirondacks (6a) and the Catskills (6b) is overseen by the Department of Environmental Conservation. Hudson Riverkeeper has sampled at this Kingston, NY has long been known as the Gateway to the Catskills and a Jewel of the Hudson Valley - a vibrant center for the arts, music, fabulous dining and shopping experiences, and fun in the great outdoors.  It ends in Myrtle Beach, South Carolina.  Located on Wolfe Island, it is a ferry ride away from Kingston (Ontario) or Cape Vincent (New York State).  choose the site nearest you: albany; binghamton; buffalo; catskills; chautauqua; elmira-corning; finger lakes; glens falls; hudson valley; ithaca; long island; new One Way Flights vs Round Trip Flights from Kingston, Jamaica to New York City .  The red flashing dot shows the tide time right now.  You can rest easy knowing that your payment is secure, and that we’ll have your back in the event of any trouble that may occur.  845-331-1682.  Come see the largest RV dealership in Upstate New York.  Wouldn&#39;t it be nice if you knew someone who was a pool and spa expert? Well The Galderisi Family is here to help! Welcome to SwimKing Pools &amp; Spas online! Find Kingston Point Beach in Kingston with Address, Phone number from Yahoo US Local.  I have been in many hotels and the Best Western Plus is absolutely the BEST!!! I am a very picky person and always find fault with something.  Learn to ski or snowboard at one of New York&#39;s favorite ski destination.  We&#39;re a quarter- mile down East Strand on the left.  There is also a sign posted on the dock saying No Swimming by order of the New York State Health Department.  Bring the family to see Santa in the square, embrace the beauty of winter at Lumina Borealis, wow your taste buds at the best local restaurants from Kingston Food Tours, and much more.  Unsent c1920s.  Driving time from New York, NY to Myrtle Beach, SC.  Since 1987, Kingston has remained a market leader in memory products and since 2002, in high-performance gaming memory products under the HyperX brand.  We recommend taking the bus from Rosendale to New York and then taking the bus from New York, NY - Times Square 37th St to Virginia Beach, VA, which takes around 10h 33m.  The halfway point is Tuxedo Park, NY.  Kingston, NY The town docks of Kingston and West Strand Park host a marina, recreational boating, fishing and kayaking on Rondout Creek.  Accessibility Help.  You’ll think, “Darn, I wish we grabbed a hotel room or B&amp;B!” so Find New York craft shows, art shows, fairs and festivals.  Kingston, New York is a moderately-sized city with a population of 23,506 residents.  Click to view any of these 25 available rental units in Kingston to see photos, reviews, floor plans and verified information about schools, neighborhoods, unit availability and more.  Business Improvement Area (BIA) is an association of more than 700 businesses and property owners located in the core commercial area of the City of Kingston.  It will calculate approximate cost of driving the distance between Virginia Beach, VA and Kingston, NY.  You can take a train from Kingston to Point Pleasant Beach via Rhinecliff Amtrak Station, New York Penn Station, and Long Branch in around 5h 29m.  It is 91 miles (146 km) north of New York City and 59 miles (90 km) south of Albany.  He began doing standup comedy in New York City, where he worked as a staff writer at Late Night with Conan O’Brien.  We compete in the National Premier Soccer League (NPSL), which is in the 4th division of the US soccer pyramid.  Kingston Weekender&#39;s guide to wine tours near Kingston, NY.  Buy kingston ny beach products designed by independent artists from all over the world.  Welcome Home to the Hudson Valley, NY.  The halfway point is Dale City, VA.  There is a combined sewer overflow (CSO) discharge pipe at the site.  Distance, Gas Consumption and Emission Notes.  Known for its live music and entertainment choices, Kingston offers a lot for the traveler booking a vacation.  Held at Reformed Church of New Paltz, 92 Huguenot Street, New Paltz, NY 12561 Wine and dine in an array of restaurants, cafés, lounges and bars at Kingston Resorts.  Beach Hotels in Kingston.  A car with an average MPG will needs 20.  The City has adopted an Active Living Charter that commits to encouraging citizens to enjoy the benefits of active living and active transportation – using your feet, a bicycle or public transportation to get around.  Find Long Beach, NY condos &amp; townhomes for sale with Coldwell Banker Residential Brokerage.  Hmmm, officially there are no &quot;beaches&quot; in Kingston (at least the swimming variety).  The official home page of the New York State Unified Court System. 95 km) to the north.  Distance from Kingston, NY to Virginia Beach, VA is 451Miles or 725 Km.  Less than 20 miles from New York City, Jones Beach is a playground for millions of people who live nearby.  Dr.  Use filters to narrow your search by price, square feet, beds, and baths to find homes that fit your View the full collection of hand-picked vacation rentals in The Catskills and Hudson Valley in Upstate New York.  Certain sections of New York&#39;s coastline are especially vulnerable to coastal erosion through natural actions and through human activities.  Kingston, city, capital, and chief port of Jamaica, sprawling along the southeastern coast of the island, backed by the Blue Mountains.  Pick up a special, customizable variety pack at your club.  I do combine shipping for multiple postcards.  Kingston Point Beach.  From our location in the heart of the Hudson River Valley in Kingston NY, Hudson River cruises provide a delightfully unique opportunity to explore this scenic shoreline. You can get this distance about 7 hours 44 mins.  Fishing, boating, water sports and more are all yours at The Spotted Sandpiper.  The pool is a couple hundred yard uphill walk.  The Beach Boys tickets at Ulster Performing Arts Center - Kingston, NY tickets - get your tickets now at Tickets.  Enjoy a totally new experience at our modern, impressive full-service hotel and conference center.  Follow the signs to the His­tor­ic Rondout Waterfront and the Urban Cul­tur­al Park.  One Way Flights vs Round Trip Flights from Kingston, Jamaica to Myrtle Beach . com Rome2rio has found 9 ways to get from Kingston to Virginia Beach by bus, train, car and flight.  Kingston Weekender Today&#39;s tide charts show that the first high Tide will be at 05:44 am with a water level of 3. com sun and sand weather forecasts provide hourly weather conditions for the beach or pool in Kingston, NY and other US locations Sample this shelf-stable, ready-to-drink iced tea enriched with vitamins a,c, &amp; e, antioxidants and made in the usa.  While here, you may want to make time for other popular sights such as Emancipation Park and Devon House.  This page provides a complete picture of Dean, allowing you to learn the truth about Dean &amp; for Dean to look their best when friends, colleagues, employers, clients, possible dates, &amp; others search for them online.  View listing photos, review sales history, and use our detailed real estate filters to find the perfect place. com and browse 0 guest reviews and 46 property photos for Kingston, New York bed and breakfast accommodations.  In the past month, 26 homes have been sold in Kingston.  Connections to Newport, RI: Van/car service is available to Newport, RI.  Any suggestions for a fun Check out Aspen Dental&#39;s office listing to find a dentist near you.  From the Port, you’re just a short walk to the Kingston/Edmond’s Ferry and a hop-step-and-jump to local downtown fun-fare, which includes spectacular food, drink and specialty shops! HUTTON brick fragments on Kingston Point Beach (Photos by D. 59 ft.  Easy setup and the best technical support.  They do not accept credit cards, cash or check only.  The land of Kingston Point Park has a long and intriguing history.  The information GoTicketio provides its costumers about the bus from Kingston to Virginia Beach is not official. com help you find the perfect rental near you.  Facebook. 1% older than the median age of a home in Kingston.  We serve the Latham, Albany, Glens Falls, Saratoga, and Kingston, NY areas.  Larrymore Organization property management services include rentals and leasing.  Scroll to top Sometimes , we miss the things that the world give us // Algunas veces nosotros olvidamos las cosas que el mundo nos da.  Send by email or mail, or print at home.  Wear along edges of card and soiling to back.  Simplex Homes builds the finest quality modular homes and custom homes.  S.  Let Apartments. gov or call 518-402-8000.  His specialties include General Dentistry .  In addition to houses in Kingston, there was also 1 condo, 1 townhouse, and 1 multi-family unit for sale in Kingston last month.  If you&#39;re looking to rent in Kingston NY, check out our extensive list of luxury apartments and townhomes.  The actual beach is pretty small but does have a playground, small boat Kingston Point Beach is sampled monthly from May 1st to October 31st SOURCE INFORMATION Since 2008, Hudson Riverkeeper has sampled many locations along the Hudson River from May through October.  Location.  We are pleased to have you as a part of our school family.  - The Student Teacher Ratio is 88</div>
+
+<hr><form target="_blank" action="http://menit.us/download?id=Y29tLm5hLmtpc2FoYW5ha211c2xpbTI=" method="post" style="text-align:center;">
+
+</form><hr>
+
+
+
+
+
+<p></p>
+
+<div class="screen-posted"><h3>Screenshot  APK</h3></div>
+
+<div class="ndelik"></div>
+
+
+
+			</article>
+
+
+
+<div class="related-posted"><h3>Related APK Download</h3></div>
+
+
+
+<div id="sorted" class="col4">
+
+<div id="box-rel-post">
+
+    
+
+
+
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+	</div><!-- #content -->
+
+
+
+<!-- *************** SIDEBAR **************** --><!-- *************** SIDEBAR **************** -->
+
+
+
+	  </div><!-- #container -->
+
+
+
+<footer id="footer" class="container_12">
+
+  <!-- ***** SOCIAL ICONS ***** -->
+
+<!-- ***** END SOCIAL ICONS ***** -->
+
+		
+
+<div class="site-info"></div>
+
+</footer>
+
+<!-- ***** FOOTER ***** -->
+
+
+
+</div>
+
+	
+
+
+
+<hr>
+
+<div style="display:none;position:fixed;_position:absolute;bottom:0px; left:0px;
+
+clip:inherit;
+
+_top:expression(document.documentElement.scrollTop+
+
+document.documentElement.clientHeight-this.clientHeight); _left:expression(document.documentElement.scrollLeft+ document.documentElement.clientWidth - offsetWidth); }">
+
+<!-- Histats.com  START (hidden counter) -->
+
+
+
+<img  src="//sstatic1.histats.com/0.gif?3960591&101" alt="free hit counter" border="0">
+
+<!-- Histats.com  END  --></div></BODY>
+
+</html>

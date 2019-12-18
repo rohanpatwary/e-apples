@@ -1,0 +1,99 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=windows-1251" http-equiv="Content-Type"/>
+<link href="/Templates/css/style.css" type="text/css" rel="stylesheet" />
+<link rel="shortcut icon" href="https://www.yugzone.ru/favicon.ico" type="image/x-icon">
+<link rel="icon" href="https://www.yugzone.ru/favicon.ico" type="image/x-icon">
+ <title>{keyword}</title>
+<div><img src="//mc.yandex.ru/watch/24389332" style="position:absolute; left:-9999px;" alt="" /></div>
+ 
+<!-- /Yandex.Metrika counter -->
+</head>
+<body>
+<div class="container">
+<div class="inner clear">
+<div class="content">
+
+
+
+<title> </title>
+
+
+<h1>{keyword}</h1> 
+<br />
+
+ 
+            {manytext_bing}
+            <br />
+      <table bordercolor="#000000" cellspacing="5">
+  <tr> 
+                <td height="27"> 
+                  <span class="soft"> </span> 
+                  <hr>                  </td>
+        </tr>
+              <tr> 
+                <td height="10">
+</td>
+              </tr>
+    </table>
+            
+
+ <br />
+<br />
+Бесплатные почтовые рассылки по саморазвитию. <br />
+Уже подписалось более 17 тысяч человек.<br />
+<br />
+</div>
+
+
+<div class="right-col"><div align=center>
+  <img src="/Templates/img/logo.png" alt="" align="center" class="logo" /> </div><br /><br /><br />
+<br />
+
+ </div>
+</div>
+
+
+<div class="header">
+ 
+  <img src="/Templates/img/logo.png" alt="" class="logo" /> 
+  <ul class="main-menu">
+    <li class="mm-l1"> </li>
+    
+   
+    
+  </ul>
+</div>
+ <div class="htop-bar">
+    <div class="htb-search">
+      <form action="/search.php" id="cse-search-box">
+        <div>
+          <input type="hidden" name="cx" value="005981379277374831887:pz-g25xq6ye" />
+          <input type="hidden" name="cof" value="FORID:11" />
+          <input type="hidden" name="ie" value="windows-1251" />
+          <input type="text" name="q" onMouseOver="focus()" class="htb-str" />
+          <input type="submit" value="Найти" class="htb-btn" />
+        </div>
+      </form>
+    </div>
+  </div>
+<div class="footer">
+  <table width="100%" border="0" cellpadding="5">
+    <tr valign="top">
+      <td align="left"><div id="authors">Автор сайта:  ><br />
+                  </div></td>
+      <td><div id="copyright"><strong>©</strong> вы можете использовать материалы сайта<br />
+          при указании ссылки на  </div></td>
+    </tr>
+  </table>
+  
+</div>
+
+ <div><img src="//mc.yandex.ru/watch/24389332" style="position:absolute; left:-9999px;" alt="" /></div> 
+<!-- /Yandex.Metrika counter -->
+
+</body></html>

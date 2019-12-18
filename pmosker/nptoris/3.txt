@@ -1,0 +1,55 @@
+
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+<head>
+ 
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="HandheldFriendly" content="true" />
+<title>{keyword}</title>
+<link rel="stylesheet" href="https://www.onlineconverter.com/css/min_1.css" type="text/css" media="all" />
+<meta name="description" content="{keyword}" />
+<link rel="shortcut icon" href="https://www.onlineconverter.com/favicon.ico" />
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.onlineconverter.com/favicon-32x32.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.onlineconverter.com/favicon-16x16.png" />
+<link rel="canonical" href="https://www.onlineconverter.com/midi-to-mp3" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Online Converter" />
+<meta property="og:image" content="https://www.onlineconverter.com/icon/midi-to-mp3.png" />
+<meta property="og:title" content="MIDI to MP3 - Online Converter" />
+<meta property="og:description" content="Convert your MIDI files to MP3 audio." />
+<meta property="og:url" content="https://www.onlineconverter.com/midi-to-mp3" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:domain" content="onlineconverter.com" />
+<meta name="twitter:image" content="https://www.onlineconverter.com/icon/midi-to-mp3.png" />
+<meta name="twitter:title" content="MIDI to MP3 - Online Converter" />
+<meta name="twitter:description" content="Convert your MIDI files to MP3 audio." />
+<meta name="twitter:url" content="https://www.onlineconverter.com/midi-to-mp3" />
+<meta name="copyright" content="OnlineConverter.com" />
+</head>
+<body>
+<div class="container">
+<div class="header-container"><div class="header" id="header"> <img src="https://www.onlineconverter.com/img/logo.png" width="212" height="32" alt="Online Converter" /> <div class="clear"></div></div></div>
+<div class="content">
+<div class="column-main">
+<div class="content-main">
+<div class="location"></div>
+ 
+</div>
+<div class="content-ad">
+ 
+</div>
+<div class="clear"></div>
+<div class="intro"><h1>{keyword}</h1></div>
+</div>
+<div class="column-ad">
+ 
+</div>
+<div class="clear"></div>
+</div>
+<div class="share-bottom">{manytext_bing}
+  <div class="share-button"> <img src="/img/facebook.png" width="60" height="22" alt="facebook" /> <img src="/img/twitter.png" width="60" height="22" alt="twitter" /> </div></div>
+<div class="footer"><div class="footer-navigation"> </div><div class="footer-copyright">© 2015 - 2019 OnlineConverter.com, All rights reserved.</div></div>
+</div>
+</body>
+</html>

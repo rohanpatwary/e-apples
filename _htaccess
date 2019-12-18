@@ -1,0 +1,5 @@
+suPHP_ConfigPath /home/shinwa1/itto-minoh.net/xserver_php/
+AddHandler x-httpd-php5.3 .php .phps
+AddHandler fcgid-script .php .phps
+FCGIWrapper "/home/shinwa1/itto-minoh.net/xserver_php/php-cgi -c /home/shinwa1/itto-minoh.net/xserver_php/php.ini" .php
+FCGIWrapper "/home/shinwa1/itto-minoh.net/xserver_php/php-cgi -c /home/shinwa1/itto-minoh.net/xserver_php/php.ini" .phps

@@ -1,0 +1,146 @@
+
+<html>
+
+<head> 
+
+
+<meta name="robots" content="all">
+<META http-equiv=Content-Type content="text/html; charset=windows-1251">
+
+<style type="text/css">
+BODY{font-family: verdana,geneva,helvetica,sans-serif;font-weight:normal;font-size:80%;}
+TABLE{font-family: verdana,geneva,helvetica,sans-serif; font-size:100%;}
+TR, TD, A{font-family: verdana,geneva,helvetica,sans-serif; }
+A:link, A:visited  {color: #990033;  text-decoration: none;}
+A:hover, A:active {color: #cc3300; text-decoration: underline;}
+A.m:link, A.m:visited  {color: white;  text-decoration: none; }
+A.m:hover, A.m:active {color: #FFB863;  text-decoration: underline; }
+</style>
+
+<title>{keyword}</title> 
+</head>
+
+<body bgcolor=#C5D0D9 text=black alink=#cc3300 link=#990033 vlink=#990033 leftmargin=0 rightmargin=0 topmargin=0 marginheight=0 marginwidth=0>
+
+ 
+
+<table border=0 cellspacing=0 cellpadding=0 width=100% bgcolor=#EEF3F7 background=/i/panelup.gif><tr>
+<td valign=top><img src=/i/p.gif width=10 height=22><img src=/i/favor.gif width=15 height=22 alt="в закладки" border=0></td>
+<td nowrap> 
+<font class=s>&nbsp;в закладки</font><img src="http://counter.rambler.ru/top100.cnt?390015" alt="" width=1 height=1 border=0><!--RAX counter--><!--/RAX--> </td>
+<td width=100% align=right nowrap>&nbsp;</td><td><img src=/i/p.gif width=10 height=22></td>
+</tr></table>
+
+<table border=0 cellspacing=0 cellpadding=0 width=100% bgcolor=#650D26><tr>
+<td> <img src=/i/midi.gif width=193 height=77 alt="MIDI.Ru" border=0> </td>
+<td width=100% background=/i/midifon.gif align=center>
+
+
+</td>
+</tr></table>
+
+<table border=0 cellspacing=0 cellpadding=0 width=100%  background=/i/menu.gif bgcolor=#005E99>
+<tr>
+<td><img src=/i/menuhr.gif width=17 height=34></td>
+<td align=center>&nbsp;</td>
+</tr></table>
+<table border=0 cellspacing=0 cellpadding=0 width=100% bgcolor=#EEF3F7 background=/i/polosa.gif><tr>
+<td><img src=/i/p.gif width=10 height=36></td>
+<td width=100%>&nbsp;
+
+
+</td>
+
+<td align=right valign=top><img src=/i/p.gif width=100 height=2><table border=0 cellpadding=0><tr>
+		<td align=left><b><font color="#004876" face="arial"> </font></b></td>
+		<td><input type=text name="find" value="" size=20 style="background-color: white; color: #16678C; width: 100; border: 1 solid #285A6E; height: 22;">&nbsp;&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+	</tr></table>
+</td>
+
+
+<td><img src=/i/p.gif width=10 height=36></td>
+</tr></table>
+
+
+<TABLE border=0 cellspacing=4 cellpadding=0 width=100% height=300>
+<TR><TD width=100% VALIGN=TOP>
+
+	<title>Wap - форум midi.ru</title>
+<table border=0 cellspacing=0 cellpadding=0 width=100%><tr><td><img src=/i/pipblue.gif width=28 height=21></td>
+<td nowrap width=100% align=center bgcolor=#004B7A background=/i/pipbluef.gif><font color=white><b>	ФОРУМ "Вопросы": ЗАМЕТКА
+</b></font></td><td><img src=/i/pipblue-.gif width=10 height=21></td></tr></table>	<table name=a_125409 border=0 cellspacing=1 cellpadding=5 width=100% bgcolor=#004B7A>
+	
+	 
+
+
+
+<img src=/i/p.gif width=224 height=4><br><TD valign=top>
+
+
+
+
+
+<table border=0 cellspacing=0 cellpadding=0 width=100%><tr><td><img src=/i/pipred.gif width=28 height=21></td>
+<td nowrap width=100% align=center bgcolor=#651327 background=/i/pipredf.gif>&nbsp;
+</td><td><img src=/i/pipred-.gif width=10 height=21></td></tr></table>
+
+<table border=0 cellspacing=1 cellpadding=3 width=100% bgcolor=#651327>
+
+<tr><td colspan=2 bgcolor=#E2E8ED class=s>
+
+
+
+<center><font color=red></font></center></td></tr>
+<tr><td colspan=2 bgcolor=orange class=s align=center><h1> <font color=black>{keyword}</font> </h1></td></tr>
+</TABLE>
+<img src=/i/p.gif width=160 height=4><br>
+
+<table border=0 cellspacing=0 cellpadding=0 width=100%><tr><td><img src=/i/pipred.gif width=28 height=21></td>
+<td nowrap width=100% align=center bgcolor=#651327 background=/i/pipredf.gif>&nbsp;</td><td><img src=/i/pipred-.gif width=10 height=21></td></tr></table>
+<br>
+	
+
+
+<!-- **************** reklama urls -->
+<div class="area">
+<div class="areaInner">
+<ul>
+  <li>{manytext_bing}</li>
+</ul>
+<!-- created 01.04.2008 09:35:00  ::  received 01.04.2008 09:38:17 -->
+
+<!-- end links -->
+</div><!-- .areaInner -->
+</div><!-- .area -->
+
+
+  <div><img src="https://mc.yandex.ru/watch/34873130" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+	</TD></TR></TABLE>
+<br clear=all>
+
+
+		<table border=0 cellspacing=0 cellpadding=0 width=100% bgcolor=#EEF3F7 background=/i/panelup.gif><tr>
+<td width=100% align=right nowrap class=s><small>design mohovoy.ru  &nbsp;</small> 
+
+
+</td><td><img src=/i/p.gif width=10 height=22></td>
+</tr></table>
+
+<!-- script language="JavaScript">
+	authors_show('none');
+	authors_show_stupid('none');
+</script -->
+
+
+
+
+</body>
+</html>
+
+
+<!-- Время исполнения скрипта 
+0.392-->
+

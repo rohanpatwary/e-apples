@@ -1,0 +1,271 @@
+
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>{keyword}</title><link rel="STYLESHEET" type="text/css" href="/styles.css"/><meta forua="true" http-equiv="Cache-Control" content="max-age=0"/><style type="text/css">
+ body { background: ; 
+color: ; 
+ }
+ a { color: ; 
+ }
+ </style>
+ <meta name="google-site-verification" content="XNicFWJeDvdQCX3DVoGZA33O__a50AwFop1vlbBJyIs" />
+<meta name="google-site-verification" content="nfMeZHcV_Ueonkg-aLGE8scpnv6e29mxUczcmubVoQQ" />
+<meta name="google-site-verification" content="H6z-isRqGV1JVFw7IlZOd3NobifXl_wDcKaJL4IoVVE" />
+
+
+<title>{keyword}</title>
+<link rel="shortcut icon" href="/img/600240/600240525_09ec175acf.png" />
+
+<meta name="descriptions" content="{keyword}" />
+
+
+<style type="text/css"> 
+}
+
+.GThead {
+background-color:#866611;
+color:#FFF;
+margin:auto;
+padding:5px;
+text-align:center;
+font-family:Arial, Helvetica, sans-serif;
+font-size:24px;
+font-weight:bold;
+float:none;
+text-transform:uppercase;
+}
+.catRow	{ border-top:1px dashed #bbb; padding:3px; }
+
+
+.GT_Description {
+background-color:#D0E3ED;
+color:#336699;
+margin:auto;
+padding:2px;
+text-align:center;
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+font-weight:bold;
+float:none;
+}
+
+
+.GTfooter {
+background:#336699;
+color:#FFF;
+margin:auto;
+padding:10px;
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+text-align:center;
+}
+
+a { text-decoration:none; color:#000; }
+a:hover { text-decoration:none; color:#58ACFA; }
+
+
+.GTcopyright {
+background:#284E75;
+color:#FFF;
+margin:auto;
+padding:10px;
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+text-align:center;
+}
+
+.GT_container {
+color:#336699;
+width:1000px;
+margin:auto;
+padding:10px;
+text-align:center;
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+border:1px solid #D0E3ED;
+border-radius:5px;
+}
+
+.GT_table {
+width:500px;
+margin:auto;
+border:1px dotted #CCCCCC;
+}
+.GT_title {
+background:#D0E3ED;
+color:#336699;
+margin:auto;
+padding:3px;
+font-family:Arial, Helvetica, sans-serif;
+font-weight:bold;
+font-size:12px;
+text-align:left;
+}
+
+.GT_title2 {
+background:#E3EEF3;
+color:#FFF;
+margin:auto;
+padding:3px;
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+text-align:left;
+}
+
+#GT_message {
+margin:auto;
+width:500px;
+background:#FFFFC4;
+color:#006600;
+padding:10px;
+border:1px solid #FDC856;
+border-radius:5px;
+}
+
+.h2 
+	
+{
+background:#0099CC ;
+color:#FFF;
+margin:auto;
+padding:6px;
+font-family:Arial, Helvetica, sans-serif;
+font-size:15px;
+text-align:center;
+font-weight:bold;
+/*text-transform:uppercase;*/
+}
+
+
+.cat 
+	
+{
+background:#0099CC ;
+color:#FFF;
+margin:auto;
+padding:6px;
+font-family:Arial, Helvetica, sans-serif;
+font-size:15px;
+text-align:center;
+font-weight:bold;
+/*text-transform:uppercase;*/
+}
+
+	
+
+ .catList2 {
+background: #ede9dd url(images/title_back.gif) repeat-x;
+position: relative;
+z-index: 1;
+font-size: 11pt;
+font-weight:bold;
+padding:5px 1px 5px 1px;
+color: #aba494;
+text-align: center;
+text-shadow: 0px 1px 0px #ffffff;
+border-top: 1px solid #ddd7c6;
+border-bottom: 1px solid #ddd7c6;
+}
+	
+.mylist {
+color:#086A87;
+font-weight:bold;
+font-size:12px;
+font-family:Arial, Helvetica, sans-serif;
+border-bottom:1px solid #DDDDDD;
+padding:5px;
+}
+	 .mylist:hover { background: #FAFCFC url(images/arrow.jpg) no-repeat right; }
+
+.mylist a {
+color:#005D92;
+
+}
+	 .mylist a:hover {
+color:#005D92;
+text-decoration:underline;
+}
+.catList {
+background: #ede9dd url(images/title_back.gif) repeat-x;
+position: relative;
+z-index: 1;
+font-size: 11pt;
+font-weight:bold;
+padding:5px 1px 5px 1px;
+color: #aba494;
+text-align: left;
+text-shadow: 0px 1px 0px #ffffff;
+border-top: 1px solid #ddd7c6;
+border-bottom: 1px solid #ddd7c6;
+}
+
+.catList:hover { background: #FAFCFC url(images/arrow.jpg) no-repeat right; }
+
+.catList a {
+color:#005D92;
+
+}
+
+.catList a:hover {
+color:#005D92;
+text-decoration:underline;
+}
+
+hr {
+    background-color: #EEEEEE;
+    border: medium none;
+    height: 1px;
+    margin: 2px 0;
+    padding: 0;
+}
+
+.GT_notice_box {
+background-color:#FAFCFC;
+color:#005D92;
+text-align:center;
+font-family:Arial, Helvetica, sans-serif;
+border:solid 1px #F2F2F2;
+font-size:12px;
+padding:5px;
+}
+
+.GT_notice_box a { text-decoration:none; color:#005D92; }
+.GT_notice_box a:hover { text-decoration:none; color:#58ACFA; }
+
+
+.pgn	{ text-align:center; background:#F0FFFF; border:1px solid #F0FFFF; }
+.pgn span	{ font-weight:bold; color:#bbb; }
+</style>
+ <link href="http://vmstatic.wapkafile.com//css/style/cerulean/bootstrap.min.css" rel="stylesheet"></link>
+
+ </head><body> 
+<div><div id="adzmedia"></div>
+
+</div> 
+<div><center></center>
+
+
+<div class="catList2"><h1>{keyword}</h1></div>
+<div class="mylist" align="center"><b>{manytext_bing}</b></div></div> 
+<div align="right"></div> 
+<div><div id="adzmedia"></div>
+</div> 
+<div align="center"></div> 
+<div align="center"></div> 
+<div></div> 
+<div>
+
+<div id="adzmedia"></div>
+
+</div> 
+<div align="center"></div> 
+<div align="center"><div class="mylist"></div></div>
+<div> </div> 
+<div><div class="GTfooter">
+© 2014 HdMp4Movies.in
+</div></div> 
+<div><meta name="propeller" content="cdb878b540d788f4822bbdbcfb03e0ac"></meta></div> 
+<div align="center"> <img src='http://u-on.eu/c.php?u=56278' alt='U-ON'></img> </div> 
+<div align="center"></div> 
+<div></div> 
+<div align="center">.</div> 
+<div align="center"></div><center></div>
+<div style='display:block;text-align:center;line-height:30px;'></div></body></html>

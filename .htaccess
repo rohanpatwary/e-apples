@@ -1,0 +1,19 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . index.php [L]
+</IfModule>
+RewriteEngine on
+
+#wwwÇ†ÇËê≥ãKâª
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^e-apples.net
+RewriteRule ^(.*)$ http://www.e-apples.net/$1 [R=301,L]
+
+#index.htmlê≥ãKâª
+RewriteEngine on
+RewriteCond %{THE_REQUEST} ^.*/index.html
+RewriteRule ^(.*)index.html$ http://www.e-apples.net/$1 [R=301,L]
